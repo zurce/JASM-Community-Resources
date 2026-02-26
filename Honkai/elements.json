@@ -1,0 +1,42 @@
+[
+	{
+		"InternalName": "Adaptive",
+		"DisplayName": "Adaptive",
+		"Image": "Adaptive.svg"
+	},
+	{
+		"InternalName": "Imaginary",
+		"DisplayName": "Imaginary",
+		"Image": "Imaginary.webp"
+	},
+	{
+		"InternalName": "Quantum",
+		"DisplayName": "Quantum",
+		"Image": "Quantum.webp"
+	},
+	{
+		"InternalName": "Wind",
+		"DisplayName": "Wind",
+		"Image": "Wind.webp"
+	},
+	{
+		"InternalName": "Lightning",
+		"DisplayName": "Lightning",
+		"Image": "Lightning.webp"
+	},
+	{
+		"InternalName": "Ice",
+		"DisplayName": "Ice",
+		"Image": "Ice.webp"
+	},
+	{
+		"InternalName": "Fire",
+		"DisplayName": "Fire",
+		"Image": "Fire.webp"
+	},
+	{
+		"InternalName": "Physical",
+		"DisplayName": "Physical",
+		"Image": "Physical.webp"
+	}
+]

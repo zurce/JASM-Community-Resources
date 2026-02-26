@@ -1,0 +1,73 @@
+[
+  {
+    "InternalName": "Others_NPC",
+    "DisplayName": "Other NPCs",
+    "IsMultiMod": true,
+    "Image": "Npc_Others.png"
+  },
+  {
+    "InternalName": "Katheryne",
+    "DisplayName": "Katheryne",
+    "Image": "Npc_Katheryne.png"
+  },
+  {
+    "IsMultiMod": true,
+    "ModFilesName": "Hilichurl",
+    "InternalName": "Hilichurl",
+    "DisplayName": "Hilichurls"
+  },
+  {
+    "IsMultiMod": true,
+    "ModFilesName": "",
+    "InternalName": "Slimes",
+    "DisplayName": "Slimes"
+  },
+  {
+    "IsMultiMod": true,
+    "ModFilesName": "",
+    "InternalName": "Fungus",
+    "DisplayName": "Fungus"
+  },
+  {
+    "IsMultiMod": true,
+    "ModFilesName": "",
+    "InternalName": "Treasure Hoarders",
+    "DisplayName": "Treasure Hoarders"
+  },
+  {
+    "IsMultiMod": true,
+    "ModFilesName": "",
+    "InternalName": "Fatui",
+    "DisplayName": "Fatui"
+  },
+  {
+    "IsMultiMod": true,
+    "ModFilesName": "",
+    "InternalName": "Ruin Machines",
+    "DisplayName": "Ruin Machines"
+  },
+  {
+    "Image": "Npc_Sorush.webp",
+    "ModFilesName": "Sorush",
+    "InternalName": "Sorush",
+    "DisplayName": "Sorush"
+  },
+  {
+    "Image": "Npc_Liloupar.webp",
+    "ModFilesName": "Liloupar",
+    "InternalName": "Liloupar",
+    "DisplayName": "Liloupar"
+  },
+  {
+    "Image": "Npc_Mikoto.webp",
+    "ModFilesName": "Mikoto",
+    "InternalName": "Mikoto",
+    "DisplayName": "Narukami no Mikoto"
+  },
+  {
+    "Image": "Npc_Signora.webp",
+    "ModFilesName": "Signora",
+    "InternalName": "Signora",
+    "DisplayName": "La Signora"
+  }
+]
