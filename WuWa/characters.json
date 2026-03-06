@@ -138,7 +138,7 @@
         "InternalName": "ExorcisticAdjuration",
         "DisplayName": "Exorcistic Adjuration"
       }
-	],
+    ],
     "InternalName": "Sanhua",
     "DisplayName": "Sanhua"
   },
@@ -315,7 +315,7 @@
         "InternalName": "LaurelNymph",
         "DisplayName": "Laurel Nymph"
       }
-	],
+    ],
     "InternalName": "Changli",
     "DisplayName": "Changli"
   },
@@ -339,7 +339,7 @@
         "InternalName": "PeachBlossom",
         "DisplayName": "Peach Blossom"
       }
-	],
+    ],
     "InternalName": "Jinhsi",
     "DisplayName": "Jinhsi"
   },
@@ -447,6 +447,23 @@
   },
   {
     "Keys": [
+      "Aemeath"
+    ],
+    "ReleaseDate": "2026-06-25T00:00:00",
+    "Image": "Characters/aemeath.webp",
+    "Rarity": 5,
+    "Element": "Fusion",
+    "Class": "Sword",
+    "Region": [
+      "Lahai"
+    ],
+    "ModFilesName": "Aemeath",
+    "InGameSkins": [],
+    "InternalName": "Aemeath",
+    "DisplayName": "Aemeath"
+  },
+  {
+    "Keys": [
       "Carlotta"
     ],
     "ReleaseDate": "2025-01-02T00:00:00",
@@ -465,7 +482,7 @@
         "InternalName": "SplashingSummer",
         "DisplayName": "Splashing Summer"
       }
-	],
+    ],
     "InternalName": "Carlotta",
     "DisplayName": "Carlotta"
   },
@@ -540,7 +557,7 @@
         "InternalName": "DowntownRepose",
         "DisplayName": "Downtown Repose"
       }
-	],
+    ],
     "InternalName": "Zani",
     "DisplayName": "Zani"
   },
