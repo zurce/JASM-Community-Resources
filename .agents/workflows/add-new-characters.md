@@ -44,3 +44,11 @@ Append the new character's block to the bottom of the `<Game>/characters.json` a
 ### 6. Git Protocol
 - **Permission required**: Never automatically push commits to `master` (or upstream remotes) unless explicitly commanded by the user.
 - **Single-use scope**: Every instruction to "push" is treated as a one-time operation for that specific changeset, rather than an open ticket. Do not assume permission carries over to future work.
+
+### 7. Automation Tools (`tools/`)
+This repository contains a suite of automation scripts stored in the root `tools/` directory (ignored by git explicitly) built to streamline the character ingestion process:
+- **`verify_honkai_missing.py`**: Compares the local Honkai `<Game>/characters.json` inventory against Prydwen's live website to print any missing character names.
+- **`parse_zzz_wiki.py` / `scrape_varka.py` / `parse_wiki_nation.py`**: A collection of Fandom Wiki API scrapers built to parse raw HTML and Infoboxes to extract `ReleaseDate`, `Element`, `Rarity`, `Path`, and `Region`.
+- **`analyze_zzz_images.py` / `analyze_honkai.py`**: Analysis scripts that scan existing character portraits, map their alpha channels, and determine mathematical averages for image centering and bounding box offsets.
+- **`recrop_honkai.py` / `iterative_honkai_crop.py`**: Intelligent "Smart Croppers" that use NumPy alpha-masking to anchor at the exact top of an illustration and pull a square 256x256 bounding box around the character's head and torso.
+- **`lbpcascade_animeface.xml`**: An OpenCV HAAR cascade model used to dynamically recognize 2D anime facial geometry, enabling exact tracking of character faces even in chaotic, full-body splash art.
