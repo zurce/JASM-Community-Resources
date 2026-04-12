@@ -1028,5 +1028,42 @@
     "InGameSkins": [],
     "InternalName": "Cissia",
     "DisplayName": "Cissia"
+  },
+  {
+    "Keys": [
+      "Starlight - Billy Kid",
+      "Starlight Billy",
+      "Starlight"
+    ],
+    "ReleaseDate": "2026-05-14T00:00:00",
+    "Image": "StarlightBilly.webp",
+    "Rarity": 5,
+    "Element": "Physical",
+    "Class": "Rupture",
+    "Region": [
+      "CHares"
+    ],
+    "ModFilesName": "StarlightBilly",
+    "InGameSkins": [],
+    "InternalName": "StarlightBilly",
+    "DisplayName": "Starlight - Billy Kid"
+  },
+  {
+    "Keys": [
+      "Promeia"
+    ],
+    "ReleaseDate": "2026-05-14T00:00:00",
+    "Image": "Promeia.webp",
+    "Rarity": 5,
+    "Element": "Ice",
+    "Class": "Anomaly",
+    "Region": [
+      "Krampus"
+    ],
+    "ModFilesName": "Promeia",
+    "InGameSkins": [],
+    "InternalName": "Promeia",
+    "DisplayName": "Promeia"
   }
 ]
+
