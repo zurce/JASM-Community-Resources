@@ -833,5 +833,39 @@
     "InGameSkins": [],
     "InternalName": "Lucilla",
     "DisplayName": "Lucilla"
+  },
+  {
+    "Keys": [
+      "Hiyuki"
+    ],
+    "ReleaseDate": "2026-04-30T00:00:00",
+    "Image": "hiyuki.webp",
+    "Rarity": 5,
+    "Element": "Glacio",
+    "Class": "Sword",
+    "Region": [
+      "Ashinohara"
+    ],
+    "ModFilesName": "Hiyuki",
+    "InGameSkins": [],
+    "InternalName": "Hiyuki",
+    "DisplayName": "Hiyuki"
+  },
+  {
+    "Keys": [
+      "Denia"
+    ],
+    "ReleaseDate": "2026-05-21T00:00:00",
+    "Image": "denia.webp",
+    "Rarity": 5,
+    "Element": "Fusion",
+    "Class": "Rectifier",
+    "Region": [
+      "Rinascita"
+    ],
+    "ModFilesName": "Denia",
+    "InGameSkins": [],
+    "InternalName": "Denia",
+    "DisplayName": "Denia"
   }
 ]
