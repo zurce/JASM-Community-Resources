@@ -423,5 +423,23 @@
         "InGameSkins": [],
         "InternalName": "Rossi",
         "DisplayName": "Rossi"
+    },
+    {
+        "Keys": [
+            "ZhuangFangyi",
+            "Zhuang_Fangyi"
+        ],
+        "ReleaseDate": "2026-04-17T00:00:00",
+        "Image": "zhuangfangyi.webp",
+        "Rarity": 6,
+        "Element": "Electric",
+        "Class": "ArtsUnit",
+        "Region": [
+            "HAS"
+        ],
+        "ModFilesName": "ZhuangFangyi",
+        "InGameSkins": [],
+        "InternalName": "ZhuangFangyi",
+        "DisplayName": "Zhuang Fangyi"
     }
 ]
