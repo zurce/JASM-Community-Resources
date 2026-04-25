@@ -961,7 +961,7 @@
     "ModFilesName": "Sunna",
     "InGameSkins": [
       {
-        "ModFilesName": "SunnaTeaBreak",
+        "ModFilesName": "SunnaSkin",
         "Image": "SunnaAfternoonTeaBreak.png",
         "InternalName": "Sunna Afternoon Tea Break",
         "DisplayName": "Sunna Afternoon Tea Break"
@@ -985,7 +985,7 @@
     "ModFilesName": "Aria",
     "InGameSkins": [
       {
-        "ModFilesName": "AriaDiscordantNote",
+        "ModFilesName": "AriaSkin",
         "Image": "AriaDiscordantNote.png",
         "InternalName": "Aria Discordant Note",
         "DisplayName": "Aria Discordant Note"
@@ -1008,7 +1008,14 @@
       "AOD"
     ],
     "ModFilesName": "NangongYu",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "NangongYuSkin",
+        "Image": "NangongYuRhapsodysMuse.webp",
+        "InternalName": "Nangong Yu Rhapsody's Muse",
+        "DisplayName": "Nangong Yu Rhapsody's Muse"
+      }
+    ],
     "InternalName": "NangongYu",
     "DisplayName": "Nangong Yu"
   },
@@ -1066,4 +1073,4 @@
     "DisplayName": "Promeia"
   }
 ]
-
+
