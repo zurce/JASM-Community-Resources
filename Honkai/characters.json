@@ -1121,7 +1121,14 @@
       "Amphoreus"
     ],
     "ModFilesName": "Castorice",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "CastoriceGossamerFlutter",
+        "Image": "Character_Skin_Castorice_Gossamer_Flutter.webp",
+        "InternalName": "CastoriceGossamerFlutter",
+        "DisplayName": "Castorice Gossamer Flutter"
+      }
+    ],
     "InternalName": "Castorice",
     "DisplayName": "Castorice"
   },
