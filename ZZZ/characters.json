@@ -17,13 +17,19 @@
         "ModFilesName": "BelleDelicateSunlight",
         "Image": "BelleDelicateSunlight.png",
         "InternalName": "BelleDelicateSunlight",
-        "DisplayName": "Belle Delicate Sunlight"
+        "DisplayName": "Delicate Sunlight"
       },
       {
         "ModFilesName": "BelleSummerSkin",
         "Image": "BelleSummerSkies.png",
         "InternalName": "BelleSummerSkies",
-        "DisplayName": "Belle Summer Skies"
+        "DisplayName": "Summer Skies"
+      },
+      {
+        "ModFilesName": "BelleBrillianceOfStars",
+        "Image": "BelleBrillianceOfStars.png",
+        "InternalName": "BelleBrillianceOfStars",
+        "DisplayName": "Briliance of Stars"
       }
     ],
     "InternalName": "Belle",
@@ -47,13 +53,19 @@
         "ModFilesName": "WiseSoaringCrane",
         "Image": "WiseSoaringCrane.png",
         "InternalName": "WiseSoaringCrane",
-        "DisplayName": "Wise Soaring Crane"
+        "DisplayName": "Soaring Crane"
       },
       {
         "ModFilesName": "WiseSummerSkin",
         "Image": "WisePeacefulWaves.png",
         "InternalName": "WisePeacefulWaves",
-        "DisplayName": "Wise Peaceful Waves"
+        "DisplayName": "Peaceful Waves"
+      },
+      {
+        "ModFilesName": "WiseOathOfSkies",
+        "Image": "WiseOathOfSkies.webp",
+        "InternalName": "WiseOathOfSkies",
+        "DisplayName": "Oath Of Skies"
       }
     ],
     "InternalName": "Wise",
@@ -95,7 +107,7 @@
         "ModFilesName": "EllenOnCampus",
         "Image": "EllenOnCampus.webp",
         "InternalName": "Ellen On Campus",
-        "DisplayName": "Ellen On Campus"
+        "DisplayName": "On Campus"
       }
     ],
     "InternalName": "Ellen",
@@ -303,7 +315,14 @@
       "Calydon"
     ],
     "ModFilesName": "Lucy",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "LucyPrincessOnHoliday",
+        "Image": "LucyPrincessOnHoliday.png",
+        "InternalName": "Lucy Princess On Holiday",
+        "DisplayName": "Princess On Holiday"
+      }
+    ],
     "InternalName": "Lucy",
     "DisplayName": "Lucy"
   },
@@ -378,7 +397,14 @@
       "Section6"
     ],
     "ModFilesName": "Miyabi",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "MiyabiDignifiedBlossom",
+        "Image": "MiyabiDignifiedBlossom.webp",
+        "InternalName": "Miyabi Dignified Blossom",
+        "DisplayName": "Dignified Blossom"
+      }
+    ],
     "InternalName": "Miyabi",
     "DisplayName": "Miyabi"
   },
@@ -401,7 +427,7 @@
         "ModFilesName": "JaneSummer",
         "Image": "JaneDoeNocturneOfLight.webp",
         "InternalName": "Jane Doe Nocturne of Light",
-        "DisplayName": "Jane Doe Nocturne of Light"
+        "DisplayName": "Nocturne of Light"
       }
     ],
     "InternalName": "Jane",
@@ -533,7 +559,7 @@
         "ModFilesName": "AstraChandelier",
         "Image": "AstraChandelier.webp",
         "InternalName": "Astra Chandelier",
-        "DisplayName": "Astra Chandelier"
+        "DisplayName": "Chandelier"
       }
     ],
     "InternalName": "Astra",
@@ -685,7 +711,7 @@
         "ModFilesName": "YixuanTrailsofInk",
         "Image": "YixuanTrailsofInk.png",
         "InternalName": "YixuanTrailsofInk",
-        "DisplayName": "YixuanTrailsofInkr"
+        "DisplayName": "Trails of Ink"
       }
     ],
     "InternalName": "Yixuan",
@@ -744,7 +770,7 @@
         "ModFilesName": "YuzuhaSkin",
         "Image": "YuzuhaTanukiInBroadDaylight.png",
         "InternalName": "YuzuhaTanukiInBroadDaylight",
-        "DisplayName": "Yuzuha Tanuki in Broad Daylight"
+        "DisplayName": "Tanuki in Broad Daylight"
       }
     ],
     "InternalName": "Yuzuha",
@@ -769,7 +795,7 @@
         "ModFilesName": "AliceSkin",
         "Image": "AliceSeaOfThyme.png",
         "InternalName": "AliceSeaOfThyme",
-        "DisplayName": "Alice Sea of Thyme"
+        "DisplayName": "Sea of Thyme"
       }
     ],
     "InternalName": "Alice",
@@ -923,7 +949,7 @@
         "ModFilesName": "YeShunguangDress",
         "Image": "YeShunguangTouchOfDawnlight.webp",
         "InternalName": "Ye Shunguang Touch of Dawnlight",
-        "DisplayName": "Ye Shunguang Touch of Dawnlight"
+        "DisplayName": "Touch of Dawnlight"
       }
     ],
     "InternalName": "YeShunguang",
@@ -948,7 +974,8 @@
   },
   {
     "Keys": [
-      "Sunna"
+      "Sunna",
+      "Chinatsu"
     ],
     "ReleaseDate": "2026-02-06T00:00:00",
     "Image": "Sunna.webp",
@@ -964,7 +991,7 @@
         "ModFilesName": "SunnaTeaBreak",
         "Image": "SunnaAfternoonTeaBreak.png",
         "InternalName": "Sunna Afternoon Tea Break",
-        "DisplayName": "Sunna Afternoon Tea Break"
+        "DisplayName": "Afternoon Tea Break"
       }
     ],
     "InternalName": "Sunna",
@@ -988,7 +1015,7 @@
         "ModFilesName": "AriaDiscordantNote",
         "Image": "AriaDiscordantNote.png",
         "InternalName": "Aria Discordant Note",
-        "DisplayName": "Aria Discordant Note"
+        "DisplayName": "Discordant Note"
       }
     ],
     "InternalName": "Aria",
@@ -1008,7 +1035,14 @@
       "AOD"
     ],
     "ModFilesName": "NangongYu",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "RhapsodyMuse",
+        "Image": "NangongYuRhapsodyMuse.png",
+        "InternalName": "Nangong Yu Rhapsody's Muse",
+        "DisplayName": "Rhapsody's Muse"
+      }
+    ],
     "InternalName": "NangongYu",
     "DisplayName": "Nangong Yu"
   },
@@ -1035,7 +1069,7 @@
       "Starlight Billy",
       "Starlight"
     ],
-    "ReleaseDate": "2026-05-14T00:00:00",
+    "ReleaseDate": "2026-05-27T00:00:00",
     "Image": "StarlightBilly.webp",
     "Rarity": 5,
     "Element": "Physical",
@@ -1052,7 +1086,7 @@
     "Keys": [
       "Promeia"
     ],
-    "ReleaseDate": "2026-05-14T00:00:00",
+    "ReleaseDate": "2026-05-05T00:00:00",
     "Image": "Promeia.webp",
     "Rarity": 5,
     "Element": "Ice",
@@ -1088,7 +1122,7 @@
       "norma hollowell",
       "normahollowell"
     ],
-    "ReleaseDate": "2026-06-17T00:00:00",
+    "ReleaseDate": "2026-07-08T00:00:00",
     "Image": "Norma.webp",
     "Rarity": 5,
     "Element": "Fire",
@@ -1116,7 +1150,14 @@
       "ESD"
     ],
     "ModFilesName": "Velina",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "ShadeOfLeisure",
+        "Image": "VelinaShadeOfLeisure.png",
+        "InternalName": "Velina Shade of Leisure",
+        "DisplayName": "Shade of Leisure"
+      }
+    ],
     "InternalName": "Velina",
     "DisplayName": "Velina"
   },
@@ -1127,7 +1168,7 @@
       "remielledan"
     ],
     "ReleaseDate": "2026-07-29T00:00:00",
-    "Image": "Remielle.webp",
+    "Image": "Remielle.png",
     "Rarity": 5,
     "Element": "Lumiflux",
     "Class": "Anomaly",
@@ -1135,7 +1176,20 @@
       "CovenantOfDayat"
     ],
     "ModFilesName": "Remielle",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "RemielleSeashadePasSeul",
+        "Image": "RemielleSeashadePasSeul.png",
+        "InternalName": "RemielleSeashadePasSeul",
+        "DisplayName": "Seashade Pas Seul"
+      },
+      {
+        "ModFilesName": "RemielleMoonlightWhispers",
+        "Image": "RemielleMoonlightWhispers.png",
+        "InternalName": "RemielleMoonlightWhispers",
+        "DisplayName": "Moonlight Whispers"
+      }
+    ],
     "InternalName": "Remielle",
     "DisplayName": "Remielle"
   },
@@ -1145,7 +1199,7 @@
       "sigrid de l'azur",
       "sigriddelazur"
     ],
-    "ReleaseDate": "2026-07-29T00:00:00",
+    "ReleaseDate": "2026-08-19T00:00:00",
     "Image": "Sigrid.webp",
     "Rarity": 5,
     "Element": "Ice",
@@ -1154,9 +1208,17 @@
       "APD"
     ],
     "ModFilesName": "Sigrid",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "MajesticWavechaser",
+        "Image": "SigridMajesticWavechaser.png",
+        "InternalName": "Sigrid Majestic Wavechaser",
+        "DisplayName": "Majestic Wavechaser"
+      }
+
+    ],
     "InternalName": "Sigrid",
     "DisplayName": "Sigrid"
   }
 ]
-
+
