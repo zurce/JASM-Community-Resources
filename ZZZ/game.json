@@ -2,10 +2,13 @@
   "GameName": "Zenless Zone Zero",
   "GameShortName": "ZZZ",
   "RarityName": "Rank",
-  "GameIcon": "Start_Game.png",
+  "GameIcon": "Start_Game.webp",
   "GameBananaUrl": "https://gamebanana.com/games/19567",
   "GameModelImporterUrl": "https://gamebanana.com/tools/17467",
   "GameModelImporterName": "Zenless Zone Model Importer",
   "GameModelImporterShortName": "ZZMI",
-  "GameModelImporterExeName": [ "3DMigoto Loader.exe", "ZZZ3dmLoader.exe" ]
+  "GameModelImporterExeName": [
+    "3DMigoto Loader.exe",
+    "ZZZ3dmLoader.exe"
+  ]
 }

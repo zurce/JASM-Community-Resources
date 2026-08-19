@@ -21,7 +21,7 @@
       "arlan"
     ],
     "ReleaseDate": "2023-04-26T00:00:00",
-    "Image": "arlan.png",
+    "Image": "arlan.webp",
     "Rarity": 4,
     "Element": "Lightning",
     "Class": "Destruction",
@@ -38,7 +38,7 @@
       "asta"
     ],
     "ReleaseDate": "2023-04-26T00:00:00",
-    "Image": "asta.png",
+    "Image": "asta.webp",
     "Rarity": 4,
     "Element": "Fire",
     "Class": "Harmony",
@@ -55,7 +55,7 @@
       "bailu"
     ],
     "ReleaseDate": "2023-04-26T00:00:00",
-    "Image": "bailu.png",
+    "Image": "bailu.webp",
     "Rarity": 5,
     "Element": "Lightning",
     "Class": "Abundance",
@@ -72,7 +72,7 @@
       "blade"
     ],
     "ReleaseDate": "2023-07-19T00:00:00",
-    "Image": "blade.png",
+    "Image": "blade.webp",
     "Rarity": 5,
     "Element": "Wind",
     "Class": "Destruction",
@@ -89,7 +89,7 @@
       "bronya"
     ],
     "ReleaseDate": "2023-04-26T00:00:00",
-    "Image": "bronya.png",
+    "Image": "bronya.webp",
     "Rarity": 5,
     "Element": "Wind",
     "Class": "Harmony",
@@ -106,7 +106,7 @@
       "clara"
     ],
     "ReleaseDate": "2023-04-26T00:00:00",
-    "Image": "clara.png",
+    "Image": "clara.webp",
     "Rarity": 5,
     "Element": "Physical",
     "Class": "Destruction",
@@ -123,7 +123,7 @@
       "danheng"
     ],
     "ReleaseDate": "2023-04-26T00:00:00",
-    "Image": "danheng.png",
+    "Image": "danheng.webp",
     "Rarity": 4,
     "Element": "Wind",
     "Class": "Hunt",
@@ -140,7 +140,7 @@
       "danheng-IL"
     ],
     "ReleaseDate": "2023-08-30T00:00:00",
-    "Image": "DHIL.png",
+    "Image": "DHIL.webp",
     "Rarity": 5,
     "Element": "Imaginary",
     "Class": "Destruction",
@@ -157,7 +157,7 @@
       "danheng-PT"
     ],
     "ReleaseDate": "2025-10-15T00:00:00",
-    "Image": "DHPT.png",
+    "Image": "DHPT.webp",
     "Rarity": 5,
     "Element": "Physical",
     "Class": "Preservation",
@@ -174,7 +174,7 @@
       "fu xuan"
     ],
     "ReleaseDate": "2023-09-20T00:00:00",
-    "Image": "fuxuan.png",
+    "Image": "fuxuan.webp",
     "Rarity": 5,
     "Element": "Quantum",
     "Class": "Preservation",
@@ -191,7 +191,7 @@
       "gepard"
     ],
     "ReleaseDate": "2023-04-26T00:00:00",
-    "Image": "gepard.png",
+    "Image": "gepard.webp",
     "Rarity": 5,
     "Element": "Ice",
     "Class": "Preservation",
@@ -208,7 +208,7 @@
       "guinaifen"
     ],
     "ReleaseDate": "2023-10-27T00:00:00",
-    "Image": "guinaifen.png",
+    "Image": "guinaifen.webp",
     "Rarity": 4,
     "Element": "Fire",
     "Class": "Nihility",
@@ -225,7 +225,7 @@
       "herta"
     ],
     "ReleaseDate": "2023-04-26T00:00:00",
-    "Image": "herta.png",
+    "Image": "herta.webp",
     "Rarity": 4,
     "Element": "Ice",
     "Class": "Erudition",
@@ -242,7 +242,7 @@
       "himeko"
     ],
     "ReleaseDate": "2023-04-26T00:00:00",
-    "Image": "himeko.png",
+    "Image": "himeko.webp",
     "Rarity": 5,
     "Element": "Fire",
     "Class": "Erudition",
@@ -259,7 +259,7 @@
       "hook"
     ],
     "ReleaseDate": "2023-04-26T00:00:00",
-    "Image": "hook.png",
+    "Image": "hook.webp",
     "Rarity": 4,
     "Element": "Fire",
     "Class": "Destruction",
@@ -276,7 +276,7 @@
       "jingyuan"
     ],
     "ReleaseDate": "2023-05-17T00:00:00",
-    "Image": "jingyuan.png",
+    "Image": "jingyuan.webp",
     "Rarity": 5,
     "Element": "Lightning",
     "Class": "Erudition",
@@ -293,7 +293,7 @@
       "jingliu"
     ],
     "ReleaseDate": "2023-10-11T00:00:00",
-    "Image": "jingliu.png",
+    "Image": "jingliu.webp",
     "Rarity": 5,
     "Element": "Ice",
     "Class": "Destruction",
@@ -310,7 +310,7 @@
       "kafka"
     ],
     "ReleaseDate": "2023-08-09T00:00:00",
-    "Image": "kafka.png",
+    "Image": "kafka.webp",
     "Rarity": 5,
     "Element": "Lightning",
     "Class": "Nihility",
@@ -327,7 +327,7 @@
       "luka"
     ],
     "ReleaseDate": "2023-08-09T00:00:00",
-    "Image": "luka.png",
+    "Image": "luka.webp",
     "Rarity": 4,
     "Element": "Physical",
     "Class": "Nihility",
@@ -344,7 +344,7 @@
       "luocha"
     ],
     "ReleaseDate": "2023-06-28T00:00:00",
-    "Image": "luocha.png",
+    "Image": "luocha.webp",
     "Rarity": 5,
     "Element": "Imaginary",
     "Class": "Abundance",
@@ -361,7 +361,7 @@
       "lynx"
     ],
     "ReleaseDate": "2023-09-20T00:00:00",
-    "Image": "lynx.png",
+    "Image": "lynx.webp",
     "Rarity": 4,
     "Element": "Quantum",
     "Class": "Abundance",
@@ -378,7 +378,7 @@
       "march7"
     ],
     "ReleaseDate": "2023-04-26T00:00:00",
-    "Image": "march7.png",
+    "Image": "march7.webp",
     "Rarity": 4,
     "Element": "Ice",
     "Class": "Preservation",
@@ -389,13 +389,13 @@
     "InGameSkins": [
       {
         "ModFilesName": "March7thHunt",
-        "Image": "Character_Skin_March7Hunt_Thumb.png",
+        "Image": "Character_Skin_March7Hunt_Thumb.webp",
         "InternalName": "March7Hunt",
         "DisplayName": "March7Hunt"
       },
       {
         "ModFilesName": "MarchNS",
-        "Image": "Character_Skin_MarchNS_Thumb.png",
+        "Image": "Character_Skin_MarchNS_Thumb.webp",
         "InternalName": "MarchNS",
         "DisplayName": "Nascent Spring"
       }
@@ -408,7 +408,7 @@
       "natasha"
     ],
     "ReleaseDate": "2023-04-26T00:00:00",
-    "Image": "natasha.png",
+    "Image": "natasha.webp",
     "Rarity": 4,
     "Element": "Physical",
     "Class": "Abundance",
@@ -425,7 +425,7 @@
       "pela"
     ],
     "ReleaseDate": "2023-04-26T00:00:00",
-    "Image": "pela.png",
+    "Image": "pela.webp",
     "Rarity": 4,
     "Element": "Ice",
     "Class": "Nihility",
@@ -442,7 +442,7 @@
       "qingque"
     ],
     "ReleaseDate": "2023-04-26T00:00:00",
-    "Image": "qingque.png",
+    "Image": "qingque.webp",
     "Rarity": 4,
     "Element": "Quantum",
     "Class": "Erudition",
@@ -459,7 +459,7 @@
       "sampo"
     ],
     "ReleaseDate": "2023-04-26T00:00:00",
-    "Image": "sampo.png",
+    "Image": "sampo.webp",
     "Rarity": 4,
     "Element": "Wind",
     "Class": "Nihility",
@@ -476,7 +476,7 @@
       "seele"
     ],
     "ReleaseDate": "2023-04-26T00:00:00",
-    "Image": "seele.png",
+    "Image": "seele.webp",
     "Rarity": 5,
     "Element": "Quantum",
     "Class": "Hunt",
@@ -493,7 +493,7 @@
       "serval"
     ],
     "ReleaseDate": "2023-04-26T00:00:00",
-    "Image": "serval.png",
+    "Image": "serval.webp",
     "Rarity": 4,
     "Element": "Lightning",
     "Class": "Erudition",
@@ -510,7 +510,7 @@
       "silverwolf"
     ],
     "ReleaseDate": "2023-06-07T00:00:00",
-    "Image": "silverwolf.png",
+    "Image": "silverwolf.webp",
     "Rarity": 5,
     "Element": "Quantum",
     "Class": "Nihility",
@@ -527,7 +527,7 @@
       "sushang"
     ],
     "ReleaseDate": "2023-04-26T00:00:00",
-    "Image": "sushang.png",
+    "Image": "sushang.webp",
     "Rarity": 4,
     "Element": "Physical",
     "Class": "Hunt",
@@ -544,7 +544,7 @@
       "tingyun"
     ],
     "ReleaseDate": "2023-04-26T00:00:00",
-    "Image": "tingyun.png",
+    "Image": "tingyun.webp",
     "Rarity": 4,
     "Element": "Lightning",
     "Class": "Harmony",
@@ -561,7 +561,7 @@
       "topaz"
     ],
     "ReleaseDate": "2023-10-27T00:00:00",
-    "Image": "topaz.png",
+    "Image": "topaz.webp",
     "Rarity": 5,
     "Element": "Fire",
     "Class": "Hunt",
@@ -578,7 +578,7 @@
       "welt"
     ],
     "ReleaseDate": "2023-04-26T00:00:00",
-    "Image": "welt.png",
+    "Image": "welt.webp",
     "Rarity": 5,
     "Element": "Imaginary",
     "Class": "Nihility",
@@ -595,7 +595,7 @@
       "yanqing"
     ],
     "ReleaseDate": "2023-04-26T00:00:00",
-    "Image": "yanqing.png",
+    "Image": "yanqing.webp",
     "Rarity": 5,
     "Element": "Ice",
     "Class": "Hunt",
@@ -612,7 +612,7 @@
       "yukong"
     ],
     "ReleaseDate": "2023-06-28T00:00:00",
-    "Image": "yukong.png",
+    "Image": "yukong.webp",
     "Rarity": 4,
     "Element": "Imaginary",
     "Class": "Harmony",
@@ -629,7 +629,7 @@
       "argenti"
     ],
     "ReleaseDate": "2023-12-06T00:00:00",
-    "Image": "argenti.png",
+    "Image": "argenti.webp",
     "Rarity": 5,
     "Element": "Physical",
     "Class": "Erudition",
@@ -646,7 +646,7 @@
       "drratio"
     ],
     "ReleaseDate": "2024-01-17T00:00:00",
-    "Image": "drratio.png",
+    "Image": "drratio.webp",
     "Rarity": 5,
     "Element": "Imaginary",
     "Class": "Hunt",
@@ -663,7 +663,7 @@
       "hanya"
     ],
     "ReleaseDate": "2023-12-06T00:00:00",
-    "Image": "hanya.png",
+    "Image": "hanya.webp",
     "Rarity": 4,
     "Element": "Physical",
     "Class": "Harmony",
@@ -680,7 +680,7 @@
       "huohuo"
     ],
     "ReleaseDate": "2023-12-06T00:00:00",
-    "Image": "huohuo.png",
+    "Image": "huohuo.webp",
     "Rarity": 5,
     "Element": "Wind",
     "Class": "Abundance",
@@ -697,7 +697,7 @@
       "ruanmei"
     ],
     "ReleaseDate": "2023-12-27T00:00:00",
-    "Image": "ruanmei.png",
+    "Image": "ruanmei.webp",
     "Rarity": 5,
     "Element": "Ice",
     "Class": "Harmony",
@@ -708,7 +708,7 @@
     "InGameSkins": [
       {
         "ModFilesName": "RuanMeiPlumblossomLetter",
-        "Image": "Character_Skin_Ruan_Mei_Plumblossom_Letter.png",
+        "Image": "Character_Skin_Ruan_Mei_Plumblossom_Letter.webp",
         "InternalName": "RuanMeiPlumblossomLetter",
         "DisplayName": "Plumblossom Letter"
       }
@@ -721,7 +721,7 @@
       "xueyi"
     ],
     "ReleaseDate": "2023-12-27T00:00:00",
-    "Image": "xueyi.png",
+    "Image": "xueyi.webp",
     "Rarity": 4,
     "Element": "Quantum",
     "Class": "Destruction",
@@ -738,7 +738,7 @@
       "blackswan"
     ],
     "ReleaseDate": "2024-02-06T00:00:00",
-    "Image": "blackswan.png",
+    "Image": "blackswan.webp",
     "Rarity": 5,
     "Element": "Wind",
     "Class": "Nihility",
@@ -755,7 +755,7 @@
       "sparkle"
     ],
     "ReleaseDate": "2024-02-29T00:00:00",
-    "Image": "sparkle.png",
+    "Image": "sparkle.webp",
     "Rarity": 5,
     "Element": "Quantum",
     "Class": "Harmony",
@@ -772,7 +772,7 @@
       "misha"
     ],
     "ReleaseDate": "2024-02-29T00:00:00",
-    "Image": "misha.png",
+    "Image": "misha.webp",
     "Rarity": 4,
     "Element": "Ice",
     "Class": "Destruction",
@@ -789,7 +789,7 @@
       "acheron"
     ],
     "ReleaseDate": "2024-03-27T00:00:00",
-    "Image": "acheron.png",
+    "Image": "acheron.webp",
     "Rarity": 5,
     "Element": "Lightning",
     "Class": "Nihility",
@@ -806,7 +806,7 @@
       "aventurine"
     ],
     "ReleaseDate": "2024-03-27T00:00:00",
-    "Image": "aventurine.png",
+    "Image": "aventurine.webp",
     "Rarity": 5,
     "Element": "Imaginary",
     "Class": "Preservation",
@@ -823,7 +823,7 @@
       "gallagher"
     ],
     "ReleaseDate": "2024-03-27T00:00:00",
-    "Image": "gallagher.png",
+    "Image": "gallagher.webp",
     "Rarity": 4,
     "Element": "Fire",
     "Class": "Abundance",
@@ -840,7 +840,7 @@
       "robin"
     ],
     "ReleaseDate": "2024-05-07T00:00:00",
-    "Image": "robin.png",
+    "Image": "robin.webp",
     "Rarity": 5,
     "Element": "Physical",
     "Class": "Harmony",
@@ -857,7 +857,7 @@
       "boothill"
     ],
     "ReleaseDate": "2024-05-07T00:00:00",
-    "Image": "boothill.png",
+    "Image": "boothill.webp",
     "Rarity": 5,
     "Element": "Physical",
     "Class": "Hunt",
@@ -874,7 +874,7 @@
       "firefly"
     ],
     "ReleaseDate": "2024-06-18T00:00:00",
-    "Image": "firefly.png",
+    "Image": "firefly.webp",
     "Rarity": 5,
     "Element": "Fire",
     "Class": "Destruction",
@@ -885,7 +885,7 @@
     "InGameSkins": [
       {
         "ModFilesName": "FireflySchoolGirl",
-        "Image": "Character_Skin_Firefly_Spring_Missive.png",
+        "Image": "Character_Skin_Firefly_Spring_Missive.webp",
         "InternalName": "FireflySpringMissive",
         "DisplayName": "Firefly Spring Missive"
       }
@@ -898,7 +898,7 @@
       "jade"
     ],
     "ReleaseDate": "2024-06-18T00:00:00",
-    "Image": "jade.png",
+    "Image": "jade.webp",
     "Rarity": 5,
     "Element": "Quantum",
     "Class": "Erudition",
@@ -915,7 +915,7 @@
       "yunli"
     ],
     "ReleaseDate": "2024-07-31T00:00:00",
-    "Image": "yunli.png",
+    "Image": "yunli.webp",
     "Rarity": 5,
     "Element": "Physical",
     "Class": "Destruction",
@@ -932,7 +932,7 @@
       "jiaoqiu"
     ],
     "ReleaseDate": "2024-08-21T00:00:00",
-    "Image": "jiaoqiu.png",
+    "Image": "jiaoqiu.webp",
     "Rarity": 5,
     "Element": "Fire",
     "Class": "Nihility",
@@ -949,7 +949,7 @@
       "feixiao"
     ],
     "ReleaseDate": "2024-09-10T00:00:00",
-    "Image": "feixiao.png",
+    "Image": "feixiao.webp",
     "Rarity": 5,
     "Element": "Wind",
     "Class": "Hunt",
@@ -966,7 +966,7 @@
       "Lingsha"
     ],
     "ReleaseDate": "2024-10-01T00:00:00",
-    "Image": "lingsha.png",
+    "Image": "lingsha.webp",
     "Rarity": 5,
     "Element": "Fire",
     "Class": "Abundance",
@@ -983,7 +983,7 @@
       "Moze"
     ],
     "ReleaseDate": "2024-09-10T00:00:00",
-    "Image": "moze.png",
+    "Image": "moze.webp",
     "Rarity": 4,
     "Element": "Lightning",
     "Class": "Hunt",
@@ -1001,7 +1001,7 @@
       "AK-A-3"
     ],
     "ReleaseDate": "2024-10-23T00:00:00",
-    "Image": "Rappa.png",
+    "Image": "Rappa.webp",
     "Rarity": 5,
     "Element": "Imaginary",
     "Class": "Erudition",
@@ -1018,7 +1018,7 @@
       "Fugue"
     ],
     "ReleaseDate": "2024-12-03T00:00:00",
-    "Image": "tingyun5s.png",
+    "Image": "tingyun5s.webp",
     "Rarity": 5,
     "Element": "Fire",
     "Class": "Nihility",
@@ -1035,7 +1035,7 @@
       "Sunday"
     ],
     "ReleaseDate": "2024-12-03T00:00:00",
-    "Image": "sunday.png",
+    "Image": "sunday.webp",
     "Rarity": 5,
     "Element": "Imaginary",
     "Class": "Harmony",
@@ -1052,7 +1052,7 @@
       "The Herta"
     ],
     "ReleaseDate": "2025-01-15T00:00:00",
-    "Image": "herta5s.png",
+    "Image": "herta5s.webp",
     "Rarity": 5,
     "Element": "Ice",
     "Class": "Erudition",
@@ -1069,7 +1069,7 @@
       "Aglaea"
     ],
     "ReleaseDate": "2025-02-05T00:00:00",
-    "Image": "aglaea.png",
+    "Image": "aglaea.webp",
     "Rarity": 5,
     "Element": "Lightning",
     "Class": "Remembrance",
@@ -1086,7 +1086,7 @@
       "Tribbie"
     ],
     "ReleaseDate": "2025-02-26T00:00:00",
-    "Image": "tribbie.png",
+    "Image": "tribbie.webp",
     "Rarity": 5,
     "Element": "Quantum",
     "Class": "Harmony",
@@ -1103,7 +1103,7 @@
       "Mydei"
     ],
     "ReleaseDate": "2025-03-19T00:00:00",
-    "Image": "mydei.png",
+    "Image": "mydei.webp",
     "Rarity": 5,
     "Element": "Imaginary",
     "Class": "Destruction",
@@ -1120,7 +1120,7 @@
       "Castorice"
     ],
     "ReleaseDate": "2025-04-09T00:00:00",
-    "Image": "castorice.png",
+    "Image": "castorice.webp",
     "Rarity": 5,
     "Element": "Quantum",
     "Class": "Remembrance",
@@ -1131,7 +1131,7 @@
     "InGameSkins": [
       {
         "ModFilesName": "CastoriceGossamerFlutter",
-        "Image": "Character_Skin_Castorice_Gossamer_Flutter.png",
+        "Image": "Character_Skin_Castorice_Gossamer_Flutter.webp",
         "InternalName": "CastoriceGossamerFlutter",
         "DisplayName": "Gossamer Flutter"
       }
@@ -1144,7 +1144,7 @@
       "anaxa"
     ],
     "ReleaseDate": "2025-04-30T00:00:00",
-    "Image": "anaxa.png",
+    "Image": "anaxa.webp",
     "Rarity": 5,
     "Element": "Wind",
     "Class": "Erudition",
@@ -1161,7 +1161,7 @@
       "Hyacine"
     ],
     "ReleaseDate": "2025-03-21T00:00:00",
-    "Image": "hyacine.png",
+    "Image": "hyacine.webp",
     "Rarity": 5,
     "Element": "Wind",
     "Class": "Remembrance",
@@ -1178,7 +1178,7 @@
       "Cipher"
     ],
     "ReleaseDate": "2025-06-11T00:00:00",
-    "Image": "cipher.png",
+    "Image": "cipher.webp",
     "Rarity": 5,
     "Element": "Quantum",
     "Class": "Nihility",
@@ -1195,7 +1195,7 @@
       "Phainon"
     ],
     "ReleaseDate": "2025-07-02T00:00:00",
-    "Image": "phainon.png",
+    "Image": "phainon.webp",
     "Rarity": 5,
     "Element": "Physical",
     "Class": "Destruction",
@@ -1212,7 +1212,7 @@
       "Saber"
     ],
     "ReleaseDate": "2025-07-11T00:00:00",
-    "Image": "saber.png",
+    "Image": "saber.webp",
     "Rarity": 5,
     "Element": "Wind",
     "Class": "Destruction",
@@ -1229,7 +1229,7 @@
       "Archer"
     ],
     "ReleaseDate": "2025-07-11T00:00:00",
-    "Image": "archer.png",
+    "Image": "archer.webp",
     "Rarity": 5,
     "Element": "Quantum",
     "Class": "Hunt",
@@ -1246,7 +1246,7 @@
       "Cerydra"
     ],
     "ReleaseDate": "2025-08-02T00:00:00",
-    "Image": "cerydra.png",
+    "Image": "cerydra.webp",
     "Rarity": 5,
     "Element": "Wind",
     "Class": "Harmony",
@@ -1263,7 +1263,7 @@
       "Hysilens"
     ],
     "ReleaseDate": "2025-08-16T00:00:00",
-    "Image": "hysilens.png",
+    "Image": "hysilens.webp",
     "Rarity": 5,
     "Element": "Physical",
     "Class": "Nihility",
@@ -1280,7 +1280,7 @@
       "Evernight"
     ],
     "ReleaseDate": "2025-09-24T00:00:00",
-    "Image": "evernight.png",
+    "Image": "evernight.webp",
     "Rarity": 5,
     "Element": "Ice",
     "Class": "Remembrance",
@@ -1297,7 +1297,7 @@
       "Cyrene"
     ],
     "ReleaseDate": "2025-11-05T00:00:00",
-    "Image": "cyrene.png",
+    "Image": "cyrene.webp",
     "Rarity": 5,
     "Element": "Ice",
     "Class": "Remembrance",
@@ -1314,7 +1314,7 @@
       "The Dahlia"
     ],
     "ReleaseDate": "2025-12-17T00:00:00",
-    "Image": "dahlia.png",
+    "Image": "dahlia.webp",
     "Rarity": 5,
     "Element": "Fire",
     "Class": "Nihility",
@@ -1342,7 +1342,7 @@
     "InGameSkins": [
       {
         "ModFilesName": "SparxieCandyCoatedWaves",
-        "Image": "Character_Skin_Sparxie_Candy_Coated_Waves.png",
+        "Image": "Character_Skin_Sparxie_Candy_Coated_Waves.webp",
         "InternalName": "SparxieCandyCoatedWaves",
         "DisplayName": "Candy-Coated Waves"
       }

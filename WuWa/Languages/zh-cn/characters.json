@@ -12,7 +12,7 @@
       "rover"
     ],
     "ReleaseDate": "2024-05-23T00:00:00",
-    "Image": "rover.png",
+    "Image": "rover.webp",
     "Rarity": 5,
     "Element": "Adaptive",
     "Class": "Sword",
@@ -29,7 +29,7 @@
       "Jianxin"
     ],
     "ReleaseDate": "2024-05-23T00:00:00",
-    "Image": "jianxin.png",
+    "Image": "jianxin.webp",
     "Rarity": 5,
     "Element": "Aero",
     "Class": "Gauntlet",
@@ -46,7 +46,7 @@
       "jiyan"
     ],
     "ReleaseDate": "2024-05-23T00:00:00",
-    "Image": "jiyan.png",
+    "Image": "jiyan.webp",
     "Rarity": 5,
     "Element": "Aero",
     "Class": "Broadblade",
@@ -63,7 +63,7 @@
       "lingyang"
     ],
     "ReleaseDate": "2024-05-23T00:00:00",
-    "Image": "lingyang.png",
+    "Image": "lingyang.webp",
     "Rarity": 5,
     "Element": "Glacio",
     "Class": "Gauntlet",
@@ -80,7 +80,7 @@
       "baizhi"
     ],
     "ReleaseDate": "2024-05-23T00:00:00",
-    "Image": "baizhi.png",
+    "Image": "baizhi.webp",
     "Rarity": 4,
     "Element": "Glacio",
     "Class": "Rectifier",
@@ -97,7 +97,7 @@
       "chixia"
     ],
     "ReleaseDate": "2024-05-23T00:00:00",
-    "Image": "chixia.png",
+    "Image": "chixia.webp",
     "Rarity": 4,
     "Element": "Fusion",
     "Class": "Pistols",
@@ -114,7 +114,7 @@
       "danjin"
     ],
     "ReleaseDate": "2024-05-23T00:00:00",
-    "Image": "danjin.png",
+    "Image": "danjin.webp",
     "Rarity": 4,
     "Element": "Havoc",
     "Class": "Sword",
@@ -131,7 +131,7 @@
       "sanhua"
     ],
     "ReleaseDate": "2024-05-23T00:00:00",
-    "Image": "sanhua.png",
+    "Image": "sanhua.webp",
     "Rarity": 4,
     "Element": "Glacio",
     "Class": "Sword",
@@ -148,7 +148,7 @@
       "taoqi"
     ],
     "ReleaseDate": "2024-05-23T00:00:00",
-    "Image": "taoqi.png",
+    "Image": "taoqi.webp",
     "Rarity": 4,
     "Element": "Havoc",
     "Class": "Broadblade",
@@ -165,7 +165,7 @@
       "yangyang"
     ],
     "ReleaseDate": "2024-05-23T00:00:00",
-    "Image": "yangyang.png",
+    "Image": "yangyang.webp",
     "Rarity": 4,
     "Element": "Aero",
     "Class": "Sword",
@@ -182,7 +182,7 @@
       "yuanwu"
     ],
     "ReleaseDate": "2024-05-23T00:00:00",
-    "Image": "yuanwu.png",
+    "Image": "yuanwu.webp",
     "Rarity": 4,
     "Element": "Electro",
     "Class": "Gauntlet",
@@ -199,7 +199,7 @@
       "calcharo"
     ],
     "ReleaseDate": "2024-05-23T00:00:00",
-    "Image": "calcharo.png",
+    "Image": "calcharo.webp",
     "Rarity": 5,
     "Element": "Electro",
     "Class": "Broadblade",
@@ -216,7 +216,7 @@
       "encore"
     ],
     "ReleaseDate": "2024-05-23T00:00:00",
-    "Image": "encore.png",
+    "Image": "encore.webp",
     "Rarity": 5,
     "Element": "Fusion",
     "Class": "Rectifier",
@@ -233,7 +233,7 @@
       "verina"
     ],
     "ReleaseDate": "2024-05-23T00:00:00",
-    "Image": "verina.png",
+    "Image": "verina.webp",
     "Rarity": 5,
     "Element": "Spectro",
     "Class": "Rectifier",
@@ -250,7 +250,7 @@
       "aalto"
     ],
     "ReleaseDate": "2024-05-23T00:00:00",
-    "Image": "aalto.png",
+    "Image": "aalto.webp",
     "Rarity": 4,
     "Element": "Aero",
     "Class": "Pistols",
@@ -267,7 +267,7 @@
       "mortefi"
     ],
     "ReleaseDate": "2024-05-23T00:00:00",
-    "Image": "mortefi.png",
+    "Image": "mortefi.webp",
     "Rarity": 4,
     "Element": "Fusion",
     "Class": "Pistols",
@@ -284,7 +284,7 @@
       "yinlin"
     ],
     "ReleaseDate": "2024-06-6T00:00:00",
-    "Image": "yinlin.png",
+    "Image": "yinlin.webp",
     "Rarity": 5,
     "Element": "Electro",
     "Class": "Rectifier",
@@ -301,7 +301,7 @@
       "Changli"
     ],
     "ReleaseDate": "2024-06-6T00:00:00",
-    "Image": "Changli.png",
+    "Image": "Changli.webp",
     "Rarity": 5,
     "Element": "Fusion",
     "Class": "Sword",
@@ -318,7 +318,7 @@
       "Jinhsi"
     ],
     "ReleaseDate": "2024-06-6T00:00:00",
-    "Image": "Jinhsi.png",
+    "Image": "Jinhsi.webp",
     "Rarity": 5,
     "Element": "Spectro",
     "Class": "Broadblade",
@@ -335,7 +335,7 @@
       "Zhezhi"
     ],
     "ReleaseDate": "2024-08-15T00:00:00",
-    "Image": "Zhezhi.png",
+    "Image": "Zhezhi.webp",
     "Rarity": 5,
     "Element": "Glacio",
     "Class": "Rectifier",
@@ -352,7 +352,7 @@
       "Xiangliyao"
     ],
     "ReleaseDate": "2024-08-15T00:00:00",
-    "Image": "Xiangliyao.png",
+    "Image": "Xiangliyao.webp",
     "Rarity": 5,
     "Element": "Electro",
     "Class": "Gauntlet",
@@ -369,7 +369,7 @@
       "shorekeeper"
     ],
     "ReleaseDate": "2024-09-29T00:00:00",
-    "Image": "shorekeeper.png",
+    "Image": "shorekeeper.webp",
     "Rarity": 5,
     "Element": "Spectro",
     "Class": "Rectifier",
@@ -386,7 +386,7 @@
       "Youhu"
     ],
     "ReleaseDate": "2024-10-24T00:00:00",
-    "Image": "Youhu.png",
+    "Image": "Youhu.webp",
     "Rarity": 4,
     "Element": "Glacio",
     "Class": "Gauntlet",

@@ -3,12 +3,12 @@
     "InternalName": "Others_NPC",
     "DisplayName": "Other NPCs",
     "IsMultiMod": true,
-    "Image": "Npc_Others.png"
+    "Image": "Npc_Others.webp"
   },
   {
     "InternalName": "Katheryne",
     "DisplayName": "Katheryne",
-    "Image": "Npc_Katheryne.png"
+    "Image": "Npc_Katheryne.webp"
   },
   {
     "IsMultiMod": true,

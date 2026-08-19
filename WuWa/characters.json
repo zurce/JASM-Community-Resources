@@ -4,7 +4,7 @@
       "rover"
     ],
     "ReleaseDate": "2024-05-23T00:00:00",
-    "Image": "rover.png",
+    "Image": "rover.webp",
     "Rarity": 5,
     "Element": "Adaptive",
     "Class": "Sword",
@@ -15,7 +15,7 @@
     "InGameSkins": [
       {
         "ModFilesName": "PerpetualSpark",
-        "Image": "Perpetual_Spark.png",
+        "Image": "Perpetual_Spark.webp",
         "InternalName": "PerpetualSpark",
         "DisplayName": "Perpetual Spark"
       }
@@ -28,7 +28,7 @@
       "Jianxin"
     ],
     "ReleaseDate": "2024-05-23T00:00:00",
-    "Image": "jianxin.png",
+    "Image": "jianxin.webp",
     "Rarity": 5,
     "Element": "Aero",
     "Class": "Gauntlets",
@@ -45,7 +45,7 @@
       "jiyan"
     ],
     "ReleaseDate": "2024-05-23T00:00:00",
-    "Image": "jiyan.png",
+    "Image": "jiyan.webp",
     "Rarity": 5,
     "Element": "Aero",
     "Class": "Broadblade",
@@ -62,7 +62,7 @@
       "lingyang"
     ],
     "ReleaseDate": "2024-05-23T00:00:00",
-    "Image": "lingyang.png",
+    "Image": "lingyang.webp",
     "Rarity": 5,
     "Element": "Glacio",
     "Class": "Gauntlets",
@@ -79,7 +79,7 @@
       "baizhi"
     ],
     "ReleaseDate": "2024-05-23T00:00:00",
-    "Image": "baizhi.png",
+    "Image": "baizhi.webp",
     "Rarity": 4,
     "Element": "Glacio",
     "Class": "Rectifier",
@@ -96,7 +96,7 @@
       "chixia"
     ],
     "ReleaseDate": "2024-05-23T00:00:00",
-    "Image": "chixia.png",
+    "Image": "chixia.webp",
     "Rarity": 4,
     "Element": "Fusion",
     "Class": "Pistols",
@@ -113,7 +113,7 @@
       "danjin"
     ],
     "ReleaseDate": "2024-05-23T00:00:00",
-    "Image": "danjin.png",
+    "Image": "danjin.webp",
     "Rarity": 4,
     "Element": "Havoc",
     "Class": "Sword",
@@ -130,7 +130,7 @@
       "sanhua"
     ],
     "ReleaseDate": "2024-05-23T00:00:00",
-    "Image": "sanhua.png",
+    "Image": "sanhua.webp",
     "Rarity": 4,
     "Element": "Glacio",
     "Class": "Sword",
@@ -141,7 +141,7 @@
     "InGameSkins": [
       {
         "ModFilesName": "ExorcisticAdjuration",
-        "Image": "Exorcistic_Adjuration.png",
+        "Image": "Exorcistic_Adjuration.webp",
         "InternalName": "ExorcisticAdjuration",
         "DisplayName": "Exorcistic Adjuration"
       }
@@ -154,7 +154,7 @@
       "taoqi"
     ],
     "ReleaseDate": "2024-05-23T00:00:00",
-    "Image": "taoqi.png",
+    "Image": "taoqi.webp",
     "Rarity": 4,
     "Element": "Havoc",
     "Class": "Broadblade",
@@ -171,7 +171,7 @@
       "yangyang"
     ],
     "ReleaseDate": "2024-05-23T00:00:00",
-    "Image": "yangyang.png",
+    "Image": "yangyang.webp",
     "Rarity": 4,
     "Element": "Aero",
     "Class": "Sword",
@@ -188,7 +188,7 @@
       "yuanwu"
     ],
     "ReleaseDate": "2024-05-23T00:00:00",
-    "Image": "yuanwu.png",
+    "Image": "yuanwu.webp",
     "Rarity": 4,
     "Element": "Electro",
     "Class": "Gauntlets",
@@ -205,7 +205,7 @@
       "calcharo"
     ],
     "ReleaseDate": "2024-05-23T00:00:00",
-    "Image": "calcharo.png",
+    "Image": "calcharo.webp",
     "Rarity": 5,
     "Element": "Electro",
     "Class": "Broadblade",
@@ -222,7 +222,7 @@
       "encore"
     ],
     "ReleaseDate": "2024-05-23T00:00:00",
-    "Image": "encore.png",
+    "Image": "encore.webp",
     "Rarity": 5,
     "Element": "Fusion",
     "Class": "Rectifier",
@@ -239,7 +239,7 @@
       "verina"
     ],
     "ReleaseDate": "2024-05-23T00:00:00",
-    "Image": "verina.png",
+    "Image": "verina.webp",
     "Rarity": 5,
     "Element": "Spectro",
     "Class": "Rectifier",
@@ -256,7 +256,7 @@
       "aalto"
     ],
     "ReleaseDate": "2024-05-23T00:00:00",
-    "Image": "aalto.png",
+    "Image": "aalto.webp",
     "Rarity": 4,
     "Element": "Aero",
     "Class": "Pistols",
@@ -273,7 +273,7 @@
       "mortefi"
     ],
     "ReleaseDate": "2024-05-23T00:00:00",
-    "Image": "mortefi.png",
+    "Image": "mortefi.webp",
     "Rarity": 4,
     "Element": "Fusion",
     "Class": "Pistols",
@@ -290,7 +290,7 @@
       "yinlin"
     ],
     "ReleaseDate": "2024-06-6T00:00:00",
-    "Image": "yinlin.png",
+    "Image": "yinlin.webp",
     "Rarity": 5,
     "Element": "Electro",
     "Class": "Rectifier",
@@ -307,7 +307,7 @@
       "Changli"
     ],
     "ReleaseDate": "2024-06-6T00:00:00",
-    "Image": "Changli.png",
+    "Image": "Changli.webp",
     "Rarity": 5,
     "Element": "Fusion",
     "Class": "Sword",
@@ -318,7 +318,7 @@
     "InGameSkins": [
       {
         "ModFilesName": "LaurelNymph",
-        "Image": "Laurel_Nymph.png",
+        "Image": "Laurel_Nymph.webp",
         "InternalName": "LaurelNymph",
         "DisplayName": "Laurel Nymph"
       }
@@ -331,7 +331,7 @@
       "Jinhsi"
     ],
     "ReleaseDate": "2024-06-6T00:00:00",
-    "Image": "Jinhsi.png",
+    "Image": "Jinhsi.webp",
     "Rarity": 5,
     "Element": "Spectro",
     "Class": "Broadblade",
@@ -342,7 +342,7 @@
     "InGameSkins": [
       {
         "ModFilesName": "PeachBlossom",
-        "Image": "Peach_Blossom.png",
+        "Image": "Peach_Blossom.webp",
         "InternalName": "PeachBlossom",
         "DisplayName": "Peach Blossom"
       }
@@ -355,7 +355,7 @@
       "Zhezhi"
     ],
     "ReleaseDate": "2024-08-15T00:00:00",
-    "Image": "Zhezhi.png",
+    "Image": "Zhezhi.webp",
     "Rarity": 5,
     "Element": "Glacio",
     "Class": "Rectifier",
@@ -372,7 +372,7 @@
       "Xiangliyao"
     ],
     "ReleaseDate": "2024-08-15T00:00:00",
-    "Image": "Xiangliyao.png",
+    "Image": "Xiangliyao.webp",
     "Rarity": 5,
     "Element": "Electro",
     "Class": "Gauntlets",
@@ -389,7 +389,7 @@
       "shorekeeper"
     ],
     "ReleaseDate": "2024-09-29T00:00:00",
-    "Image": "shorekeeper.png",
+    "Image": "shorekeeper.webp",
     "Rarity": 5,
     "Element": "Spectro",
     "Class": "Rectifier",
@@ -406,7 +406,7 @@
       "Youhu"
     ],
     "ReleaseDate": "2024-10-24T00:00:00",
-    "Image": "Youhu.png",
+    "Image": "Youhu.webp",
     "Rarity": 4,
     "Element": "Glacio",
     "Class": "Gauntlets",
@@ -423,7 +423,7 @@
       "Camellya"
     ],
     "ReleaseDate": "2024-11-14T00:00:00",
-    "Image": "Camellya.png",
+    "Image": "Camellya.webp",
     "Rarity": 5,
     "Element": "Havoc",
     "Class": "Sword",
@@ -440,7 +440,7 @@
       "Lumi"
     ],
     "ReleaseDate": "2024-12-12T00:00:00",
-    "Image": "Lumi.png",
+    "Image": "Lumi.webp",
     "Rarity": 4,
     "Element": "Electro",
     "Class": "Broadblade",
@@ -474,7 +474,7 @@
       "Carlotta"
     ],
     "ReleaseDate": "2025-01-02T00:00:00",
-    "Image": "Carlotta.png",
+    "Image": "Carlotta.webp",
     "Rarity": 5,
     "Element": "Glacio",
     "Class": "Pistols",
@@ -485,7 +485,7 @@
     "InGameSkins": [
       {
         "ModFilesName": "SplashingSummer",
-        "Image": "Splashing_Summer.png",
+        "Image": "Splashing_Summer.webp",
         "InternalName": "SplashingSummer",
         "DisplayName": "Splashing Summer"
       }
@@ -498,7 +498,7 @@
       "Roccia"
     ],
     "ReleaseDate": "2025-01-23T00:00:00",
-    "Image": "Roccia.png",
+    "Image": "Roccia.webp",
     "Rarity": 5,
     "Element": "Havoc",
     "Class": "Gauntlets",
@@ -515,7 +515,7 @@
       "Brant"
     ],
     "ReleaseDate": "2025-03-06T00:00:00",
-    "Image": "Brant.png",
+    "Image": "Brant.webp",
     "Rarity": 5,
     "Element": "Fusion",
     "Class": "Sword",
@@ -532,7 +532,7 @@
       "Phoebe"
     ],
     "ReleaseDate": "2025-02-13T00:00:00",
-    "Image": "Phoebe.png",
+    "Image": "Phoebe.webp",
     "Rarity": 5,
     "Element": "Spectro",
     "Class": "Rectifier",
@@ -549,7 +549,7 @@
       "Zani"
     ],
     "ReleaseDate": "2025-04-29T00:00:00",
-    "Image": "Zani.png",
+    "Image": "Zani.webp",
     "Rarity": 5,
     "Element": "Spectro",
     "Class": "Gauntlets",
@@ -573,7 +573,7 @@
       "Cantarella"
     ],
     "ReleaseDate": "2025-03-27T00:00:00",
-    "Image": "Cantarella.png",
+    "Image": "Cantarella.webp",
     "Rarity": 5,
     "Element": "Havoc",
     "Class": "Rectifier",
@@ -590,7 +590,7 @@
       "Ciaccona"
     ],
     "ReleaseDate": "2025-05-22T00:00:00",
-    "Image": "Ciaccona.png",
+    "Image": "Ciaccona.webp",
     "Rarity": 5,
     "Element": "Aero",
     "Class": "Pistols",
@@ -607,7 +607,7 @@
       "Cartethyia"
     ],
     "ReleaseDate": "2025-06-12T00:00:00",
-    "Image": "Cartethyia.png",
+    "Image": "Cartethyia.webp",
     "Rarity": 5,
     "Element": "Aero",
     "Class": "Sword",
@@ -624,7 +624,7 @@
       "Lupa"
     ],
     "ReleaseDate": "2025-07-03T00:00:00",
-    "Image": "Lupa.png",
+    "Image": "Lupa.webp",
     "Rarity": 5,
     "Element": "Fusion",
     "Class": "Broadblade",
@@ -641,7 +641,7 @@
       "Phrolova"
     ],
     "ReleaseDate": "2025-07-24T00:00:00",
-    "Image": "Phrolova.png",
+    "Image": "Phrolova.webp",
     "Rarity": 5,
     "Element": "Havoc",
     "Class": "Rectifier",
@@ -658,7 +658,7 @@
       "Augusta"
     ],
     "ReleaseDate": "2025-08-28T00:00:00",
-    "Image": "Augusta.png",
+    "Image": "Augusta.webp",
     "Rarity": 5,
     "Element": "Electro",
     "Class": "Broadblade",
@@ -675,7 +675,7 @@
       "Iuno"
     ],
     "ReleaseDate": "2025-09-17T00:00:00",
-    "Image": "Iuno.png",
+    "Image": "Iuno.webp",
     "Rarity": 5,
     "Element": "Aero",
     "Class": "Gauntlets",
@@ -692,7 +692,7 @@
       "Galbrena"
     ],
     "ReleaseDate": "2025-10-09T00:00:00",
-    "Image": "Galbrena.png",
+    "Image": "Galbrena.webp",
     "Rarity": 5,
     "Element": "Havoc",
     "Class": "Rectifier",
@@ -709,7 +709,7 @@
       "Qiuyuan"
     ],
     "ReleaseDate": "2025-10-30T00:00:00",
-    "Image": "Qiuyuan.png",
+    "Image": "Qiuyuan.webp",
     "Rarity": 5,
     "Element": "Aero",
     "Class": "Sword",
@@ -737,7 +737,7 @@
     "InGameSkins": [
       {
         "ModFilesName": "ChisaPeachParfait",
-        "Image": "Peach_Parfait.png",
+        "Image": "Peach_Parfait.webp",
         "InternalName": "PeachParfait",
         "DisplayName": "Peach Parfait"
       }
@@ -778,7 +778,7 @@
     "InGameSkins": [
       {
         "ModFilesName": "MornyePlushDream",
-        "Image": "Plush_Dream.png",
+        "Image": "Plush_Dream.webp",
         "InternalName": "PlushDream",
         "DisplayName": "Plush Dream"
       }
@@ -802,7 +802,7 @@
     "InGameSkins": [
       {
         "ModFilesName": "LynaePeppermint",
-        "Image": "Peppermint.png",
+        "Image": "Peppermint.webp",
         "InternalName": "Peppermint",
         "DisplayName": "Peppermint"
       }

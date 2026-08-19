@@ -1,14 +1,14 @@
-﻿[
+[
   {
     "InternalName": "Others_OBJECTS",
     "DisplayName": "Other Objects",
     "IsMultiMod": true,
-    "Image": "Object_Others.png"
+    "Image": "Object_Others.webp"
   },
   {
     "InternalName": "waverider",
     "DisplayName": "Waverider",
     "IsMultiMod": false,
-    "Image": "Waverider.png"
+    "Image": "Waverider.webp"
   }
 ]

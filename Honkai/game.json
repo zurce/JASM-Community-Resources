@@ -7,5 +7,7 @@
   "GameModelImporterUrl": "https://github.com/SilentNightSound/SR-Model-Importer",
   "GameModelImporterName": "Star-Rail-Model-Importer",
   "GameModelImporterShortName": "SRMI",
-  "GameModelImporterExeName": [ "3DMigotoLoader.exe" ]
+  "GameModelImporterExeName": [
+    "3DMigotoLoader.exe"
+  ]
 }

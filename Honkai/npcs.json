@@ -3,7 +3,7 @@
     "InternalName": "Others_NPC",
     "DisplayName": "Others",
     "IsMultiMod": true,
-    "Image": "Npc_Others.png"
+    "Image": "Npc_Others.webp"
   },
   {
     "Keys": [
@@ -11,7 +11,7 @@
     ],
     "InternalName": "Mem",
     "DisplayName": "Mem",
-    "Image": "Mem.png"
+    "Image": "Mem.webp"
   },
   {
     "Keys": [
@@ -19,6 +19,6 @@
     ],
     "InternalName": "Garmentmaker",
     "DisplayName": "Garmentmaker",
-    "Image": "Garmentmaker.png"
+    "Image": "Garmentmaker.webp"
   }
 ]

@@ -4,7 +4,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Penguinboo.png",
+    "Image": "Penguinboo.webp",
     "InternalName": "Penguinboo",
     "DisplayName": "Penguinboo"
   },
@@ -13,7 +13,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Luckyboo.png",
+    "Image": "Luckyboo.webp",
     "InternalName": "Luckyboo",
     "DisplayName": "Luckyboo"
   },
@@ -22,7 +22,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Exploreboo.png",
+    "Image": "Exploreboo.webp",
     "InternalName": "Exploreboo",
     "DisplayName": "Exploreboo"
   },
@@ -31,7 +31,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Sumoboo.png",
+    "Image": "Sumoboo.webp",
     "InternalName": "Sumoboo",
     "DisplayName": "Sumoboo"
   },
@@ -40,7 +40,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Paperboo.png",
+    "Image": "Paperboo.webp",
     "InternalName": "Paperboo",
     "DisplayName": "Paperboo"
   },
@@ -49,7 +49,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Bagboo.png",
+    "Image": "Bagboo.webp",
     "InternalName": "Bagboo",
     "DisplayName": "Bagboo"
   },
@@ -58,7 +58,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Cryboo.png",
+    "Image": "Cryboo.webp",
     "InternalName": "Cryboo",
     "DisplayName": "Cryboo"
   },
@@ -67,7 +67,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Avocaboo.png",
+    "Image": "Avocaboo.webp",
     "InternalName": "Avocaboo",
     "DisplayName": "Avocaboo"
   },
@@ -76,7 +76,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Boollseye.png",
+    "Image": "Boollseye.webp",
     "InternalName": "Boollseye",
     "DisplayName": "Boollseye"
   },
@@ -85,7 +85,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Electroboo.png",
+    "Image": "Electroboo.webp",
     "InternalName": "Electroboo",
     "DisplayName": "Electroboo"
   },
@@ -94,7 +94,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Magnetiboo.png",
+    "Image": "Magnetiboo.webp",
     "InternalName": "Magnetiboo",
     "DisplayName": "Magnetiboo"
   },
@@ -103,7 +103,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Booressure.png",
+    "Image": "Booressure.webp",
     "InternalName": "Booressure",
     "DisplayName": "Booressure"
   },
@@ -112,7 +112,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Baddieboo.png",
+    "Image": "Baddieboo.webp",
     "InternalName": "Baddieboo",
     "DisplayName": "Baddieboo"
   },
@@ -121,7 +121,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Overtimeboo.png",
+    "Image": "Overtimeboo.webp",
     "InternalName": "Overtimeboo",
     "DisplayName": "Overtimeboo"
   },
@@ -130,7 +130,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Brawlerboo.png",
+    "Image": "Brawlerboo.webp",
     "InternalName": "Brawlerboo",
     "DisplayName": "Brawlerboo"
   },
@@ -139,7 +139,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Excaliboo.png",
+    "Image": "Excaliboo.webp",
     "InternalName": "Excaliboo",
     "DisplayName": "Excaliboo"
   },
@@ -148,7 +148,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Knightboo.png",
+    "Image": "Knightboo.webp",
     "InternalName": "Knightboo",
     "DisplayName": "Knightboo"
   },
@@ -157,7 +157,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Bild_N__Boolok.png",
+    "Image": "Bild_N__Boolok.webp",
     "InternalName": "Bild N. Boolok",
     "DisplayName": "Bild N. Boolok"
   },
@@ -166,7 +166,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Booltergeist.png",
+    "Image": "Booltergeist.webp",
     "InternalName": "Booltergeist",
     "DisplayName": "Booltergeist"
   },
@@ -175,7 +175,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Sharkboo.png",
+    "Image": "Sharkboo.webp",
     "InternalName": "Sharkboo",
     "DisplayName": "Sharkboo"
   },
@@ -184,7 +184,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Safety.png",
+    "Image": "Safety.webp",
     "InternalName": "Safety",
     "DisplayName": "Safety"
   },
@@ -193,7 +193,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Devilboo.png",
+    "Image": "Devilboo.webp",
     "InternalName": "Devilboo",
     "DisplayName": "Devilboo"
   },
@@ -202,7 +202,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Butler.png",
+    "Image": "Butler.webp",
     "InternalName": "Butler",
     "DisplayName": "Butler"
   },
@@ -211,7 +211,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Amillion.png",
+    "Image": "Amillion.webp",
     "InternalName": "Amillion",
     "DisplayName": "Amillion"
   },
@@ -220,7 +220,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Rocketboo.png",
+    "Image": "Rocketboo.webp",
     "InternalName": "Rocketboo",
     "DisplayName": "Rocketboo"
   },
@@ -229,7 +229,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Plugboo.png",
+    "Image": "Plugboo.webp",
     "InternalName": "Plugboo",
     "DisplayName": "Plugboo"
   },
@@ -238,7 +238,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Resonaboo.png",
+    "Image": "Resonaboo.webp",
     "InternalName": "Resonaboo",
     "DisplayName": "Resonaboo"
   },
@@ -247,7 +247,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Biggest_Fan.png",
+    "Image": "Biggest_Fan.webp",
     "InternalName": "Biggest Fan",
     "DisplayName": "Biggest Fan"
   },
@@ -256,7 +256,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Red_Moccus.png",
+    "Image": "Red_Moccus.webp",
     "InternalName": "Red Moccus",
     "DisplayName": "Red Moccus"
   },
@@ -265,7 +265,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Officer_Cui.png",
+    "Image": "Officer_Cui.webp",
     "InternalName": "Officer Cui",
     "DisplayName": "Officer Cui"
   },
@@ -274,7 +274,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Bangvolver.png",
+    "Image": "Bangvolver.webp",
     "InternalName": "Bangvolver",
     "DisplayName": "Bangvolver"
   },
@@ -283,7 +283,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Agent_Gulliver.png",
+    "Image": "Agent_Gulliver.webp",
     "InternalName": "Agent Gulliver",
     "DisplayName": "Agent Gulliver"
   },
@@ -292,7 +292,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Snap.png",
+    "Image": "Snap.webp",
     "InternalName": "Snap",
     "DisplayName": "Snap"
   },
@@ -301,7 +301,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Robin.png",
+    "Image": "Robin.webp",
     "InternalName": "Robin",
     "DisplayName": "Robin"
   },
@@ -310,7 +310,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Belion.png",
+    "Image": "Belion.webp",
     "InternalName": "Belion",
     "DisplayName": "Belion"
   },
@@ -319,7 +319,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Miss_Esme.png",
+    "Image": "Miss_Esme.webp",
     "InternalName": "Miss Esme",
     "DisplayName": "Miss Esme"
   },
@@ -328,7 +328,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Mercury.png",
+    "Image": "Mercury.webp",
     "InternalName": "Mercury",
     "DisplayName": "Mercury"
   },
@@ -337,7 +337,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Birkblick.png",
+    "Image": "Birkblick.webp",
     "InternalName": "Birkblick",
     "DisplayName": "Birkblick"
   },
@@ -346,7 +346,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Sprout.png",
+    "Image": "Sprout.webp",
     "InternalName": "Sprout",
     "DisplayName": "Sprout"
   },
@@ -355,7 +355,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Ultra_Jake.png",
+    "Image": "Ultra_Jake.webp",
     "InternalName": "Ultra Jake",
     "DisplayName": "Ultra Jake"
   },
@@ -364,7 +364,7 @@
     "Type": "Bangboo",
     "ModFilesName": "",
     "IsMultiMod": false,
-    "Image": "Ariel.png",
+    "Image": "Ariel.webp",
     "InternalName": "Ariel",
     "DisplayName": "Ariel"
   }
