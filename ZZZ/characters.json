@@ -1226,14 +1226,14 @@
   },
   {
     "Keys": [
-      "pryce",
       "roxy",
+      "pryce",
       "roxy ifrita pryce",
       "roxy pryce",
       "roxyifritapryce"
     ],
     "ReleaseDate": "2026-09-09T00:00:00",
-    "Image": "Pryce.webp",
+    "Image": "Roxy.webp",
     "Rarity": 5,
     "Element": "Wind",
     "Class": "Stun",
@@ -1241,9 +1241,9 @@
       "Roscaelifer",
       "FlintWorks"
     ],
-    "ModFilesName": "Pryce",
+    "ModFilesName": "Roxy",
     "InGameSkins": [],
-    "InternalName": "Pryce",
-    "DisplayName": "Pryce"
+    "InternalName": "Roxy",
+    "DisplayName": "Roxy"
   }
 ]

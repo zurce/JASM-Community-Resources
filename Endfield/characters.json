@@ -516,5 +516,22 @@
     "InGameSkins": [],
     "InternalName": "Liino",
     "DisplayName": "Liino"
+  },
+  {
+    "Keys": [
+      "typhoeus"
+    ],
+    "ReleaseDate": "2026-09-02T11:00:00",
+    "Image": "Typhoeus.webp",
+    "Rarity": 6,
+    "Element": "Nature",
+    "Class": "ArtsUnit",
+    "Region": [
+      "RhodesIsland"
+    ],
+    "ModFilesName": "Typhoeus",
+    "InGameSkins": [],
+    "InternalName": "Typhoeus",
+    "DisplayName": "Typhoeus"
   }
 ]
