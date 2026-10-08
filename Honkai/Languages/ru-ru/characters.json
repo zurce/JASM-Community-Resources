@@ -301,7 +301,13 @@
   },
   {
     "InternalName": "Hyacine",
-    "DisplayName": "Гиацина"
+    "DisplayName": "Гиацина",
+    "InGameSkins": [
+      {
+        "InternalName": "HyacineWarmCottonSkies",
+        "DisplayName": "Тепло облаков"
+      }
+    ]
   },
   {
     "InternalName": "Cipher",
@@ -359,7 +365,13 @@
   },
   {
     "InternalName": "Evanescia",
-    "DisplayName": "Эванесса"
+    "DisplayName": "Эванесса",
+    "InGameSkins": [
+      {
+        "InternalName": "EvanesciaLunarBlossoming",
+        "DisplayName": "Пора лунного цветения"
+      }
+    ]
   },
   {
     "InternalName": "SilverWolf999",
@@ -383,10 +395,14 @@
   },
   {
     "InternalName": "RobinSummeretto",
-    "DisplayName": "Зарянка: Летняя песнь"
+    "DisplayName": "Зарянка: Яснопея"
   },
   {
     "InternalName": "AventurineWaveflair",
-    "DisplayName": "Авантюрин: Летний бриз"
+    "DisplayName": "Авантюрин: Прибой"
+  },
+  {
+    "InternalName": "Pearl",
+    "DisplayName": "Жемчуг"
   }
 ]

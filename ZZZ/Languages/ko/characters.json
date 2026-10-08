@@ -304,6 +304,10 @@
       {
         "InternalName": "Sunna Afternoon Tea Break",
         "DisplayName": "오후의 티타임"
+      },
+      {
+        "InternalName": "SunnaDelusionsInBusiness",
+        "DisplayName": "망상 영업 중"
       }
     ]
   },
@@ -314,6 +318,10 @@
       {
         "InternalName": "Aria Discordant Note",
         "DisplayName": "불협화음"
+      },
+      {
+        "InternalName": "AriaCutenessLoading",
+        "DisplayName": "애교 로딩 중"
       }
     ]
   },
@@ -324,6 +332,10 @@
       {
         "InternalName": "RhapsodysMuse",
         "DisplayName": "광시곡의 뮤즈"
+      },
+      {
+        "InternalName": "NangongYuHeartfeltSupport",
+        "DisplayName": "심쿵 응원 중"
       }
     ]
   },

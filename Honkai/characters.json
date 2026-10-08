@@ -1169,7 +1169,14 @@
       "Amphoreus"
     ],
     "ModFilesName": "Hyacine",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "HyacineWarmCottonSkies",
+        "Image": "Character_Skin_Hyacine_Warm_Cotton_Skies.webp",
+        "InternalName": "HyacineWarmCottonSkies",
+        "DisplayName": "Warm Cotton Skies"
+      }
+    ],
     "InternalName": "Hyacine",
     "DisplayName": "Hyacine"
   },
@@ -1399,7 +1406,14 @@
       "Planarcadia"
     ],
     "ModFilesName": "Evanescia",
-    "InGameSkins": [],
+    "InGameSkins": [
+      {
+        "ModFilesName": "EvanesciaLunarBlossoming",
+        "Image": "Character_Skin_Evanescia_Lunar_Blossoming.webp",
+        "InternalName": "EvanesciaLunarBlossoming",
+        "DisplayName": "Lunar Blossoming"
+      }
+    ],
     "InternalName": "Evanescia",
     "DisplayName": "Evanescia"
   },
@@ -1531,5 +1545,23 @@
     "InGameSkins": [],
     "InternalName": "AventurineWaveflair",
     "DisplayName": "Aventurine • Waveflair"
+  },
+  {
+    "Keys": [
+      "pearl",
+      "stoneheart of appraisal"
+    ],
+    "ReleaseDate": "2026-10-07T00:00:00",
+    "Image": "Pearl.webp",
+    "Rarity": 5,
+    "Element": "Ice",
+    "Class": "Elation",
+    "Region": [
+      "IPC"
+    ],
+    "ModFilesName": "Pearl",
+    "InGameSkins": [],
+    "InternalName": "Pearl",
+    "DisplayName": "Pearl"
   }
 ]

@@ -304,6 +304,10 @@
       {
         "InternalName": "Sunna Afternoon Tea Break",
         "DisplayName": "Послеполуденный чай"
+      },
+      {
+        "InternalName": "SunnaDelusionsInBusiness",
+        "DisplayName": "Наваждения в деле"
       }
     ]
   },
@@ -314,6 +318,10 @@
       {
         "InternalName": "Aria Discordant Note",
         "DisplayName": "Диссонирующая нота"
+      },
+      {
+        "InternalName": "AriaCutenessLoading",
+        "DisplayName": "Милота в загрузке"
       }
     ]
   },
@@ -324,6 +332,10 @@
       {
         "InternalName": "RhapsodysMuse",
         "DisplayName": "Муза рапсодии"
+      },
+      {
+        "InternalName": "NangongYuHeartfeltSupport",
+        "DisplayName": "Поддержка в сердечке"
       }
     ]
   },

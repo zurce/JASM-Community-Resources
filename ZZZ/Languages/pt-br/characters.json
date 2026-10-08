@@ -304,6 +304,10 @@
       {
         "InternalName": "Sunna Afternoon Tea Break",
         "DisplayName": "Pausa para o Chá"
+      },
+      {
+        "InternalName": "SunnaDelusionsInBusiness",
+        "DisplayName": "Desilusão em Serviço"
       }
     ]
   },
@@ -314,6 +318,10 @@
       {
         "InternalName": "Aria Discordant Note",
         "DisplayName": "Nota Dissonante"
+      },
+      {
+        "InternalName": "AriaCutenessLoading",
+        "DisplayName": "Carregando Fofura"
       }
     ]
   },
@@ -324,6 +332,10 @@
       {
         "InternalName": "RhapsodysMuse",
         "DisplayName": "Musa da Rapsódia"
+      },
+      {
+        "InternalName": "NangongYuHeartfeltSupport",
+        "DisplayName": "Apoio Sincero"
       }
     ]
   },

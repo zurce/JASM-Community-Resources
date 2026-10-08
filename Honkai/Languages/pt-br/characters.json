@@ -301,7 +301,13 @@
   },
   {
     "InternalName": "Hyacine",
-    "DisplayName": "Hyacine"
+    "DisplayName": "Hyacine",
+    "InGameSkins": [
+      {
+        "InternalName": "HyacineWarmCottonSkies",
+        "DisplayName": "Aconchego das Nuvens"
+      }
+    ]
   },
   {
     "InternalName": "Cipher",
@@ -359,7 +365,13 @@
   },
   {
     "InternalName": "Evanescia",
-    "DisplayName": "Evanescia"
+    "DisplayName": "Evanescia",
+    "InGameSkins": [
+      {
+        "InternalName": "EvanesciaLunarBlossoming",
+        "DisplayName": "Floração Lunar"
+      }
+    ]
   },
   {
     "InternalName": "SilverWolf999",
@@ -383,10 +395,14 @@
   },
   {
     "InternalName": "RobinSummeretto",
-    "DisplayName": "Robin: Summeretto"
+    "DisplayName": "Robin - Summeretto"
   },
   {
     "InternalName": "AventurineWaveflair",
-    "DisplayName": "Aventurine: Brisa Marítima"
+    "DisplayName": "Aventurine - Veraneio"
+  },
+  {
+    "InternalName": "Pearl",
+    "DisplayName": "Pearl"
   }
 ]

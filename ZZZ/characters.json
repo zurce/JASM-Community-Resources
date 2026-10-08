@@ -984,6 +984,12 @@
         "Image": "SunnaAfternoonTeaBreak.webp",
         "InternalName": "Sunna Afternoon Tea Break",
         "DisplayName": "Sunna Afternoon Tea Break"
+      },
+      {
+        "ModFilesName": "SunnaDelusionsInBusiness",
+        "Image": "SunnaDelusionsInBusiness.webp",
+        "InternalName": "SunnaDelusionsInBusiness",
+        "DisplayName": "Delusions in Business"
       }
     ],
     "InternalName": "Sunna",
@@ -1008,6 +1014,12 @@
         "Image": "AriaDiscordantNote.webp",
         "InternalName": "Aria Discordant Note",
         "DisplayName": "Aria Discordant Note"
+      },
+      {
+        "ModFilesName": "AriaCutenessLoading",
+        "Image": "AriaCutenessLoading.webp",
+        "InternalName": "AriaCutenessLoading",
+        "DisplayName": "Cuteness Loading"
       }
     ],
     "InternalName": "Aria",
@@ -1033,6 +1045,12 @@
         "Image": "NangongYuRhapsodysMuse.webp",
         "InternalName": "RhapsodysMuse",
         "DisplayName": "Nangong Yu Rhapsody's Muse"
+      },
+      {
+        "ModFilesName": "NangongYuHeartfeltSupport",
+        "Image": "NangongYuHeartfeltSupport.webp",
+        "InternalName": "NangongYuHeartfeltSupport",
+        "DisplayName": "Heartfelt Support"
       }
     ],
     "InternalName": "NangongYu",

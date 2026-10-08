@@ -304,6 +304,10 @@
       {
         "InternalName": "Sunna Afternoon Tea Break",
         "DisplayName": "アフタヌーンティー"
+      },
+      {
+        "InternalName": "SunnaDelusionsInBusiness",
+        "DisplayName": "モーソーお届け中"
       }
     ]
   },
@@ -314,6 +318,10 @@
       {
         "InternalName": "Aria Discordant Note",
         "DisplayName": "不協和音"
+      },
+      {
+        "InternalName": "AriaCutenessLoading",
+        "DisplayName": "萌えかわロード中"
       }
     ]
   },
@@ -324,6 +332,10 @@
       {
         "InternalName": "RhapsodysMuse",
         "DisplayName": "狂詩曲のミューズ"
+      },
+      {
+        "InternalName": "NangongYuHeartfeltSupport",
+        "DisplayName": "むねキュン応援中"
       }
     ]
   },

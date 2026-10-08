@@ -301,7 +301,13 @@
   },
   {
     "InternalName": "Hyacine",
-    "DisplayName": "ヒアンシー"
+    "DisplayName": "ヒアンシー",
+    "InGameSkins": [
+      {
+        "InternalName": "HyacineWarmCottonSkies",
+        "DisplayName": "雲間からこぼれる陽光"
+      }
+    ]
   },
   {
     "InternalName": "Cipher",
@@ -359,7 +365,13 @@
   },
   {
     "InternalName": "Evanescia",
-    "DisplayName": "緋英"
+    "DisplayName": "緋英",
+    "InGameSkins": [
+      {
+        "InternalName": "EvanesciaLunarBlossoming",
+        "DisplayName": "月待つ花時"
+      }
+    ]
   },
   {
     "InternalName": "SilverWolf999",
@@ -388,5 +400,9 @@
   {
     "InternalName": "AventurineWaveflair",
     "DisplayName": "アベンチュリン・波と戯れる夏"
+  },
+  {
+    "InternalName": "Pearl",
+    "DisplayName": "パール"
   }
 ]

@@ -304,6 +304,10 @@
       {
         "InternalName": "Sunna Afternoon Tea Break",
         "DisplayName": "Sunna Afternoon Tea Break"
+      },
+      {
+        "InternalName": "SunnaDelusionsInBusiness",
+        "DisplayName": "Delusions in Business"
       }
     ]
   },
@@ -314,6 +318,10 @@
       {
         "InternalName": "Aria Discordant Note",
         "DisplayName": "Aria Discordant Note"
+      },
+      {
+        "InternalName": "AriaCutenessLoading",
+        "DisplayName": "Cuteness Loading"
       }
     ]
   },
@@ -324,6 +332,10 @@
       {
         "InternalName": "RhapsodysMuse",
         "DisplayName": "Nangong Yu Rhapsody's Muse"
+      },
+      {
+        "InternalName": "NangongYuHeartfeltSupport",
+        "DisplayName": "Heartfelt Support"
       }
     ]
   },
