@@ -139,7 +139,7 @@
     "Keys": [
       "gilberta"
     ],
-    "ReleaseDate": "2026-01-22T00:00:00",
+    "ReleaseDate": "2026-02-07T00:00:00",
     "Image": "gilberta.webp",
     "Rarity": 6,
     "Element": "Nature",
@@ -298,7 +298,7 @@
     "Element": "Electric",
     "Class": "Polearm",
     "Region": [
-      "TalosIIGeneralChamberOfCommerce"
+      "TGCC"
     ],
     "ModFilesName": "Avywenna",
     "InGameSkins": [],
@@ -349,7 +349,7 @@
     "Element": "Cryo",
     "Class": "Sword",
     "Region": [
-      "UnitedWorkersSyndicatesOfTalosII"
+      "UWST"
     ],
     "ModFilesName": "Alesh",
     "InGameSkins": [],
@@ -454,7 +454,7 @@
     "Element": "Physical",
     "Class": "GreatSword",
     "Region": [
-      "Wuling"
+      "HAS"
     ],
     "ModFilesName": "MiFu",
     "InGameSkins": [],
@@ -493,7 +493,7 @@
     "Element": "Nature",
     "Class": "ArtsUnit",
     "Region": [
-      "TalosIIGeneralChamberOfCommerce"
+      "HAS"
     ],
     "ModFilesName": "Arcane",
     "InGameSkins": [],
@@ -510,7 +510,7 @@
     "Element": "Electric",
     "Class": "Polearm",
     "Region": [
-      "TalosIIGeneralChamberOfCommerce"
+      "TGCC"
     ],
     "ModFilesName": "Liino",
     "InGameSkins": [],
@@ -533,5 +533,57 @@
     "InGameSkins": [],
     "InternalName": "Typhoeus",
     "DisplayName": "Typhoeus"
+  },
+  {
+    "Keys": [
+      "purrchena"
+    ],
+    "ReleaseDate": "2026-09-24T00:00:00",
+    "Image": "Purrchena.webp",
+    "Rarity": 5,
+    "Element": "Physical",
+    "Class": "Sword",
+    "Region": [
+      "TGCC"
+    ],
+    "ModFilesName": "Purrchena",
+    "InGameSkins": [],
+    "InternalName": "Purrchena",
+    "DisplayName": "Purrchena"
+  },
+  {
+    "Keys":[
+      "si"
+    ],
+    "ReleaseDate":"2026-10-15T00:00:00",
+    "Image":"Si.webp",
+    "Rarity":6,
+    "Element":"Cryo",
+    "Class":"GreatSword",
+    "Region":[
+      "HAS"
+    ],
+    "ModFilesName":"Si",
+    "InGameSkins":[],
+    "InternalName":"Si",
+    "DisplayName":"Si"
+  },
+  {
+    "Keys":[
+      "argentflow",
+      "argent_flow"
+    ],
+    "ReleaseDate":"2026-11-5T00:00:00",
+    "Image":"ArgentFlow.webp",
+    "Rarity":6,
+    "Element":"Electric",
+    "Class":"Sword",
+    "Region":[
+      "HAS"
+    ],
+    "ModFilesName":"ArgentFlow",
+    "InGameSkins":[],
+    "InternalName":"ArgentFlow",
+    "DisplayName":"Argent Flow"
   }
 ]

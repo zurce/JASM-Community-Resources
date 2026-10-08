@@ -24,19 +24,15 @@
     "DisplayName": "Rhodes Island"
   },
   {
-    "InternalName": "TalosIIGeneralChamberOfCommerce",
+    "InternalName": "TGCC",
     "DisplayName": "Talos-II General Chamber of Commerce"
   },
   {
-    "InternalName": "UnitedWorkersSyndicatesOfTalosII",
+    "InternalName": "UWST",
     "DisplayName": "United Workers' Syndicates of Talos-II"
   },
   {
     "InternalName": "Sesqa",
     "DisplayName": "Seš'qa"
-  },
-  {
-    "InternalName": "Wuling",
-    "DisplayName": "Wuling"
   }
 ]
