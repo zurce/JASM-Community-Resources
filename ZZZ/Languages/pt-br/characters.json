@@ -394,5 +394,23 @@
   {
     "InternalName": "Roxy",
     "DisplayName": "Roxy"
+  },
+  {
+    "InternalName": "Phoenix",
+    "DisplayName": "Phoenix",
+    "InGameSkins": [
+      {
+        "InternalName": "TheIllnessCalledLife",
+        "DisplayName": "A Doença Chamada Vida"
+      },
+      {
+        "InternalName": "DaydreamComplex",
+        "DisplayName": "Complexo do Devaneio"
+      }
+    ]
+  },
+  {
+    "InternalName": "Severian",
+    "DisplayName": "Severian"
   }
 ]

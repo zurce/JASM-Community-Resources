@@ -394,5 +394,23 @@
   {
     "InternalName": "Roxy",
     "DisplayName": "洛克茜"
+  },
+  {
+    "InternalName": "Phoenix",
+    "DisplayName": "菲欧妮",
+    "InGameSkins": [
+      {
+        "InternalName": "TheIllnessCalledLife",
+        "DisplayName": "病名为生"
+      },
+      {
+        "InternalName": "DaydreamComplex",
+        "DisplayName": "妄想天使"
+      }
+    ]
+  },
+  {
+    "InternalName": "Severian",
+    "DisplayName": "赛维里安"
   }
 ]

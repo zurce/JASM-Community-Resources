@@ -1263,5 +1263,58 @@
     "InGameSkins": [],
     "InternalName": "Roxy",
     "DisplayName": "Roxy"
+  },
+  {
+    "Keys": [
+      "phoenix",
+      "reffaella",
+      "phoenix reffaella",
+      "phoenixreffaella"
+    ],
+    "ReleaseDate": "2026-10-21T00:00:00",
+    "Image": "Phoenix.webp",
+    "Rarity": 5,
+    "Element": "Fire",
+    "Class": "Anomaly",
+    "Region": [
+      "Krampus"
+    ],
+    "ModFilesName": "Phoenix",
+    "InGameSkins": [
+      {
+        "ModFilesName": "PhoenixTheIllnessCalledLife",
+        "Image": "PhoenixTheIllnessCalledLife.webp",
+        "InternalName": "TheIllnessCalledLife",
+        "DisplayName": "The Illness Called Life"
+      },
+      {
+        "ModFilesName": "PhoenixDaydreamComplex",
+        "Image": "PhoenixDaydreamComplex.webp",
+        "InternalName": "DaydreamComplex",
+        "DisplayName": "Daydream Complex"
+      }
+    ],
+    "InternalName": "Phoenix",
+    "DisplayName": "Phoenix"
+  },
+  {
+    "Keys": [
+      "severian",
+      "lowell",
+      "severian lowell",
+      "severianlowell"
+    ],
+    "ReleaseDate": "2026-10-21T00:00:00",
+    "Image": "Severian.webp",
+    "Rarity": 5,
+    "Element": "Wind",
+    "Class": "Attack",
+    "Region": [
+      "ResponseTeam"
+    ],
+    "ModFilesName": "Severian",
+    "InGameSkins": [],
+    "InternalName": "Severian",
+    "DisplayName": "Severian"
   }
 ]

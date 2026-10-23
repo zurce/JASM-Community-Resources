@@ -394,5 +394,23 @@
   {
     "InternalName": "Roxy",
     "DisplayName": "Рокси"
+  },
+  {
+    "InternalName": "Phoenix",
+    "DisplayName": "Феникс",
+    "InGameSkins": [
+      {
+        "InternalName": "TheIllnessCalledLife",
+        "DisplayName": "Болезнь по имени жизнь"
+      },
+      {
+        "InternalName": "DaydreamComplex",
+        "DisplayName": "Комплекс грёз"
+      }
+    ]
+  },
+  {
+    "InternalName": "Severian",
+    "DisplayName": "Севериан"
   }
 ]

@@ -394,5 +394,23 @@
   {
     "InternalName": "Roxy",
     "DisplayName": "록시"
+  },
+  {
+    "InternalName": "Phoenix",
+    "DisplayName": "피닉스",
+    "InGameSkins": [
+      {
+        "InternalName": "TheIllnessCalledLife",
+        "DisplayName": "삶이라는 병"
+      },
+      {
+        "InternalName": "DaydreamComplex",
+        "DisplayName": "백일몽 콤플렉스"
+      }
+    ]
+  },
+  {
+    "InternalName": "Severian",
+    "DisplayName": "세베리안"
   }
 ]
