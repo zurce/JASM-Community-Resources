@@ -552,38 +552,38 @@
     "DisplayName": "Purrchena"
   },
   {
-    "Keys":[
+    "Keys": [
       "si"
     ],
-    "ReleaseDate":"2026-10-15T00:00:00",
-    "Image":"Si.webp",
-    "Rarity":6,
-    "Element":"Cryo",
-    "Class":"GreatSword",
-    "Region":[
+    "ReleaseDate": "2026-10-15T00:00:00",
+    "Image": "Si.webp",
+    "Rarity": 6,
+    "Element": "Cryo",
+    "Class": "GreatSword",
+    "Region": [
       "HAS"
     ],
-    "ModFilesName":"Si",
-    "InGameSkins":[],
-    "InternalName":"Si",
-    "DisplayName":"Si"
+    "ModFilesName": "Si",
+    "InGameSkins": [],
+    "InternalName": "Si",
+    "DisplayName": "Si"
   },
   {
-    "Keys":[
+    "Keys": [
       "argentflow",
       "argent_flow"
     ],
-    "ReleaseDate":"2026-11-5T00:00:00",
-    "Image":"ArgentFlow.webp",
-    "Rarity":6,
-    "Element":"Electric",
-    "Class":"Sword",
-    "Region":[
+    "ReleaseDate": "2026-11-05T00:00:00",
+    "Image": "ArgentFlow.webp",
+    "Rarity": 6,
+    "Element": "Electric",
+    "Class": "Sword",
+    "Region": [
       "HAS"
     ],
-    "ModFilesName":"ArgentFlow",
-    "InGameSkins":[],
-    "InternalName":"ArgentFlow",
-    "DisplayName":"Argent Flow"
+    "ModFilesName": "ArgentFlow",
+    "InGameSkins": [],
+    "InternalName": "ArgentFlow",
+    "DisplayName": "Argent Flow"
   }
 ]
