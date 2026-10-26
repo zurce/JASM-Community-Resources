@@ -2341,5 +2341,40 @@
     "InGameSkins": [],
     "InternalName": "Vodyanitsa",
     "DisplayName": "Vodyanitsa"
+  },
+  {
+    "Keys": [
+      "mitya"
+    ],
+    "ReleaseDate": "2026-11-04T00:00:00",
+    "Image": "Mitya.webp",
+    "Rarity": 5,
+    "Element": "Electro",
+    "Class": "Catalyst",
+    "Region": [
+      "Snezhnaya"
+    ],
+    "ModFilesName": "Mitya",
+    "InGameSkins": [],
+    "InternalName": "Mitya",
+    "DisplayName": "Mitya"
+  },
+  {
+    "Keys": [
+      "valeriy",
+      "valeri"
+    ],
+    "ReleaseDate": "2026-11-04T00:00:00",
+    "Image": "Valeriy.webp",
+    "Rarity": 4,
+    "Element": "Electro",
+    "Class": "Sword",
+    "Region": [
+      "Snezhnaya"
+    ],
+    "ModFilesName": "Valeriy",
+    "InGameSkins": [],
+    "InternalName": "Valeriy",
+    "DisplayName": "Valeriy"
   }
 ]
