@@ -1563,5 +1563,26 @@
     "InGameSkins": [],
     "InternalName": "Pearl",
     "DisplayName": "Pearl"
+  },
+  {
+    "Keys": [
+      "aha",
+      "aeon aha",
+      "aeonaha",
+      "aeon ★ aha",
+      "nihilux"
+    ],
+    "ReleaseDate": "2026-11-18T00:00:00",
+    "Image": "AeonAha.webp",
+    "Rarity": 5,
+    "Element": "Quantum",
+    "Class": "Elation",
+    "Region": [
+      "Planarcadia"
+    ],
+    "ModFilesName": "AeonAha",
+    "InGameSkins": [],
+    "InternalName": "AeonAha",
+    "DisplayName": "Aeon ★ Aha"
   }
 ]
