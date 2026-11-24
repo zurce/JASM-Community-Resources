@@ -585,5 +585,39 @@
     "InGameSkins": [],
     "InternalName": "ArgentFlow",
     "DisplayName": "Argent Flow"
+  },
+  {
+    "Keys": [
+      "kay"
+    ],
+    "ReleaseDate": "2026-12-23T00:00:00",
+    "Image": "Kay.webp",
+    "Rarity": 6,
+    "Element": "Nature",
+    "Class": "Polearm",
+    "Region": [
+      "RhodesIsland"
+    ],
+    "ModFilesName": "Kay",
+    "InGameSkins": [],
+    "InternalName": "Kay",
+    "DisplayName": "Kay"
+  },
+  {
+    "Keys": [
+      "mimino"
+    ],
+    "ReleaseDate": "2026-12-23T00:00:00",
+    "Image": "Mimino.webp",
+    "Rarity": 5,
+    "Element": "Physical",
+    "Class": "Handcannon",
+    "Region": [
+      "UWST"
+    ],
+    "ModFilesName": "Mimino",
+    "InGameSkins": [],
+    "InternalName": "Mimino",
+    "DisplayName": "Mimino"
   }
 ]
